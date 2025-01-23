@@ -1,0 +1,727 @@
+,RECIPNAME,DATE,REFUNDDATE,NAME,CITY,STATE,ZIP,OCCUPATION,EMPNAME,EMPSTRNO,EMPSTRNAME,EMPCITY,EMPSTATE,AMNT,MATCHAMNT
+0,"Adams, Eric L",8/29/2024,,"Abduganiev, Maksudjon",Brooklyn,NY,11229,Dispatcher,Dispatch Limo Seven Transporta,653,E 5th Street,Brooklyn,NY,250.0,250.0
+1,"Adams, Eric L",1/8/2025,,"Abrahimi, Farhad",Hicksville,NY,11801,Business,Self-Employed,9,West Marie Street,Hicksville,NY,500.0,0.0
+2,"Adams, Eric L",8/11/2024,,"Acevedo, Isaac",Staten Island,NY,10303,Not Employed,Not Employed,,,,,250.0,250.0
+3,"Adams, Eric L",8/14/2024,,"Acevedo, Melissa",Staten Island,NY,10303,RN,Richmond Univeristy Medical Ce,355,Bard Ave,Staten Island,NY,250.0,250.0
+4,"Adams, Eric L",8/15/2024,,"Achille, Carl",Alden Manor,NY,11003,Sergeant,New York City Police Departmen,8,Catherine Court,Alden Manor,NY,250.0,0.0
+5,"Adams, Eric L",8/29/2024,,"Adames, Lissette",Bronx,NY,10453,Manager,Lissette Restaurant,501,W. 145th Street,New York,NY,250.0,0.0
+6,"Adams, Eric L",7/11/2024,9/16/2024,"Adjmi, Alex",West Allenhurst,NJ,07711,,,,,,,-2100.0,0.0
+7,"Adams, Eric L",7/29/2024,,"Adjmi, Corie",New York,NY,10021,,Homemaker,,,,,2100.0,250.0
+8,"Adams, Eric L",6/6/2024,9/16/2024,"Adjmi, Harry",Brooklyn,NY,11223,,,,,,,-2000.0,0.0
+9,"Adams, Eric L",7/19/2024,,"Agbelusi, Olufunmilayo",Bronx,NY,10475,Nurse,Pioneer Home Care agency,801,East 241st Street,Bronx,NY,250.0,250.0
+10,"Adams, Eric L",1/8/2025,,"Ahmad, Jahed",Wayne,NJ,07470,,,,,,,1000.0,0.0
+11,"Adams, Eric L",8/20/2024,,"Ahuja, Karun",Flushing,NY,11378,General manager,Comco Plastics,11,West Stepar Place,Dix Hills,NY,250.0,250.0
+12,"Adams, Eric L",8/29/2024,,"Akhrorov, Shohruh",Brooklyn,NY,11219,Accountant,Self Employed,1601,Voorhies Avenue,Brooklyn11219,NY,250.0,250.0
+13,"Adams, Eric L",1/8/2025,,"Al japairai, Saqr",The Bronx,NY,10461,Buissnes owner,Self-Employed,685,Morris Park Avenue,The Bronx,NY,500.0,0.0
+14,"Adams, Eric L",1/8/2025,,"Aladwar, Hesham",The Bronx,NY,10462,Business Owner,Self-Employed,740,Morris Park Avenue,The Bronx,NY,250.0,0.0
+15,"Adams, Eric L",8/15/2024,,"Alao, Shaneeka",Staten Island,NY,10303,Chef,Hazel’s 423,68,Wright Avenue,Staten Island,NY,100.0,100.0
+16,"Adams, Eric L",1/9/2025,,"Alayev, Ari",Roslyn Heights,NY,11577,Ceo,Ultra pain products,23-25 31,31st,New York,NY,500.0,0.0
+17,"Adams, Eric L",1/8/2025,,"Alsaedi, Hafedh",Roslyn Heights,NY,11577,,HSA Finest Realty LLC,926,Broadway,Brooklyn,NY,1000.0,0.0
+18,"Adams, Eric L",1/8/2025,,"Altaheri, Jamiel",Hamtramck,MI,48212,Chief of Police,City of Hamtramck,5224,Trowbridge Street,Hamtramck,MI,100.0,0.0
+19,"Adams, Eric L",8/13/2024,,"Amarino, Vincent",Staten Island,NY,10309,Not Employed,Not Employed,196,Wieland Ave,Staten Island,NY,250.0,250.0
+20,"Adams, Eric L",8/24/2024,,"Anagnostos, Spiros",Flushing,NY,11356,Restaurant,Lynbrook Eats,245,Merrick Road,Lynbrook,NY,250.0,250.0
+21,"Adams, Eric L",1/8/2025,,"Anwar, Merwais",Andalusia,PA,19020,District Manager,"Popeyes Louisiana Kitchen, Inc",2160,Street Road,Andalusia,PA,500.0,0.0
+22,"Adams, Eric L",7/10/2024,,"Aquino, Francisco",Brooklyn,NY,11237,Taxi Driver,High Class Bronx Limousine,1700,Jerome Avenue,Bronx,NY,250.0,0.0
+23,"Adams, Eric L",1/8/2025,,"Aranbayev, Simhko",Forest Hills,NY,11375,Real eatate,Self-Employed,102-10,Metropolitan Ave,Forest Hills,NY,1000.0,0.0
+24,"Adams, Eric L",7/17/2024,,"Aranoff, Josh",Flushing,NY,11365,Consultant,GlattHealth,3411,14th Street,Brooklyn,NY,250.0,250.0
+25,"Adams, Eric L",7/22/2024,,"Armlovich, Alexander",Jackson Heights,NY,11372,Sr Housing Policy Analyst,Niskanen Center,35-06,73rd Street,Queens,NY,100.0,100.0
+26,"Adams, Eric L",7/9/2024,8/16/2024,"Aronow, Marshall",New York,NY,10065,,,,,,,-1700.0,0.0
+27,"Adams, Eric L",1/2/2025,,"Aronson, Marc",Brooklyn,NY,11201,attorney at law,Self-Employed,107,Smith Street,Brooklyn,NY,250.0,250.0
+28,"Adams, Eric L",1/4/2025,,"Aryeh, Josh",Hewlett,NY,11557,President,Crash Hub/Medi Matrix Group,10-70,Reads Lane,Far Rockaway,NY,100.0,0.0
+29,"Adams, Eric L",1/8/2025,,"ASHKENAZI, SHULAMIT",Englewood,NJ,07631,Retired,,,,,,2100.0,0.0
+30,"Adams, Eric L",1/8/2025,,"Ashkenazy, Ben",New York,NY,10028,CEO,Topline Management LLC,600,Madison Avenue,New York,NY,2100.0,0.0
+31,"Adams, Eric L",1/8/2025,,"Ashraf, Imran",New York,NY,10002,Orthopaedic surgeon,Hudson Pro Orthopaedics and Sp,1320,Adams Street,Hoboken,NJ,500.0,0.0
+32,"Adams, Eric L",1/8/2025,,"Aslaoui, Zouhair",Massapequa Park,NY,11762,Business owner,Self-Employed,8604,Bay Parkway,Brooklyn,NY,250.0,0.0
+33,"Adams, Eric L",1/8/2025,,"Assaedi, Fathi",Mineola,NY,11501,,Self Employed,385,Bauer Place,Mineola,NY,1000.0,0.0
+34,"Adams, Eric L",8/6/2024,,"Avellino, Jaclyn",Woodbury,NY,11797,Not Employed,Not Employed,,,,,2100.0,0.0
+35,"Adams, Eric L",8/6/2024,,"Avellino, Matthew",Woodbury,NY,11797,Insurance,AC Risk Management Inc.,1800,Walt Whitman Road,Melville,NY,2100.0,0.0
+36,"Adams, Eric L",7/15/2024,,"Azoff, Irving",Los Angeles,CA,90024,Chairman and CEO,The Azoff Company,1100,Glendon Avenue,Los Angeles,CA,2100.0,0.0
+37,"Adams, Eric L",8/29/2024,,"Baisov, Aslan",Brooklyn,NY,11214,Dispatcher,City Cab Management LLC,4333,37th Street,Astoria,NY,250.0,250.0
+38,"Adams, Eric L",8/6/2024,,"Baker, Richard",New York,NY,10281,Chairman,HBC,225,Liberty Street,Manhattan,NY,2100.0,250.0
+39,"Adams, Eric L",1/8/2025,,"Bakhtari, Hadi",Westbury,NY,11590,Chief Executive Officer,Mazar Corporation,827,Jerome Court,Westbury,NY,500.0,0.0
+40,"Adams, Eric L",8/15/2024,,"Balachandran, Robert",Wykagyl,NY,10804,Attorney,Self,171,Taymil Road,Wykagyl,NY,2100.0,0.0
+41,"Adams, Eric L",7/3/2024,9/16/2024,"Balboni, Salvatore",Howell Township,NJ,07731,,,,,,,-2000.0,0.0
+42,"Adams, Eric L",12/13/2024,,"Baratta, Michael J",Staten Island,NY,10312,Sergeant,New York City Police Departmen,1,Police Plaza,PECK SLIP,NY,250.0,250.0
+43,"Adams, Eric L",7/18/2024,,"Barker, Shanel",Brooklyn,NY,11216,Cook,Savvy,791,Prospect Place,Brooklyn,NY,200.0,200.0
+44,"Adams, Eric L",8/29/2024,,"Basin, Vladimir",Quogue,NY,11959,Manager,City Cab Management LLC,4533,37th Street,Astoria,NY,250.0,0.0
+45,"Adams, Eric L",1/5/2025,,"Bawa, Sangeeta",Watchung,NJ,07069,Director,Carepoint,308,Willow Ave,Hoboken,NJ,2100.0,0.0
+46,"Adams, Eric L",1/8/2025,,"Bayat, Ahmad",Saddle Brook,NJ,07663,Manager,Popeyes,800,South Broad Street,Philadelphia,PA,250.0,0.0
+47,"Adams, Eric L",7/10/2024,9/16/2024,"Bedel, Victoria",Allison Park,PA,15101,,,,,,,-2100.0,0.0
+48,"Adams, Eric L",,,Bedford Grove LLC,Brooklyn Heights,NY,11201,,,,,,,1030.87,0.0
+49,"Adams, Eric L",8/29/2024,,"Bello, Jose",Bronx,NY,10465,,Self Employed,,,,,250.0,0.0
+50,"Adams, Eric L",1/10/2025,,"Ben Abraham, Uzi",New York,NY,10016,Founder,Premier Equities,1151,Broadway,New York,NY,2100.0,250.0
+51,"Adams, Eric L",1/10/2025,,"Ben avraham, Samuel",New York,NY,10021,Retired,,,,,,2100.0,250.0
+52,"Adams, Eric L",7/12/2024,,"Bender, Ronald",New York,NY,10028,Real Estate,Prosper Property Group,70,Lafayette Street,Canal Street,NY,400.0,250.0
+53,"Adams, Eric L",1/8/2025,,"Benun, Ezra",Brooklyn,NY,11230,Importer,Bentex group,34,West 33rd Street,New York,NY,250.0,0.0
+54,"Adams, Eric L",1/9/2025,,"Betesh, Morris",Brooklyn,NY,11230,Mortgage Broker,Arrow Real Estate Advisors,111,West 33rd Street,New York,NY,2100.0,250.0
+55,"Adams, Eric L",12/22/2024,,"Bhayani, Raj",Brooklyn,NY,11223,Physician,Self-Employed,1783,West 6th Street,Brooklyn,NY,2100.0,250.0
+56,"Adams, Eric L",1/6/2025,,"Birnhak, Jason",Dix Hills,NY,11746,Doctor,"Quantum Pt & Chiro Care, PLLC",175-43,Hillside Avenue,Jamaica,NY,1000.0,0.0
+57,"Adams, Eric L",1/10/2025,,"Bitler, Thomas",New York,NY,10033,Cashier,Yeshiva University,500,West 185th Street,New York,NY,50.0,50.0
+58,"Adams, Eric L",8/29/2024,,"Boltaev, Furkat",Brooklyn,NY,11230,CEO,Limo Seven Transportation,653,E 5th Street,Brooklyn,NY,250.0,250.0
+59,"Adams, Eric L",8/15/2024,,"Brach, Abe",Brooklyn,NY,11205,Owner,Northside Packaging,92,Emerson Place,Brooklyn,NY,2100.0,250.0
+60,"Adams, Eric L",8/5/2024,,"Briody, Kristen",Bedford,NY,10506,,Retired,,,,,250.0,0.0
+61,"Adams, Eric L",7/25/2024,,"Brisman, Yehuda",Toms River,NJ,08755,Home Care,Baychester Services,846,Nostrand Avenue,Brooklyn,NY,250.0,0.0
+62,"Adams, Eric L",7/10/2024,,"Brito, Eugenio",Bronx,NY,10454,Manager,Brito Deli Grocery Corp,309,Crimmins Avenue,Bronx,NY,250.0,0.0
+63,"Adams, Eric L",8/23/2024,,"Burgos, Madeline",New York,NY,10029,Teacher,NYC Department of Education,65,Court St,Brooklyn Heights,NY,25.0,25.0
+64,"Adams, Eric L",8/23/2024,,"Burns, Deborah A",New York,NY,10037,Retired,Retired,50,W 132nd St,New York,NY,25.0,25.0
+65,"Adams, Eric L",8/7/2024,,"Butts, Heather",Bayside,NY,11360,Professor,Columbia University,16-70,Bell Boulevard,Queens,NY,250.0,250.0
+66,"Adams, Eric L",1/3/2025,,"Cadden, Mark",Marlboro Township,NJ,07746,Business Development,Comprehensive Business Develop,16,Mitchell Ct,Marlboro,NJ,250.0,0.0
+67,"Adams, Eric L",7/10/2024,,"Cai, Yu Ming",Brooklyn,NY,11235,Manager,Bon Voyage USA Inc,220,Ingraham Street,Brooklyn,NY,175.0,175.0
+68,"Adams, Eric L",6/30/2024,7/11/2024,"Calabrese, Michael",Far Rockaway,NY,11694,,,,,,,-250.0,0.0
+69,"Adams, Eric L",7/10/2024,9/16/2024,"Caliendo, Gerald",Jamaica,NY,11435,,,,,,,-2100.0,0.0
+70,"Adams, Eric L",8/29/2024,,"Carlson, Sandra",Flushing,NY,11385,,Retired,,,,,250.0,250.0
+71,"Adams, Eric L",8/15/2024,,"Carolina, Demetrius",Staten Island,NY,10304,Pastor,First Central Baptist Church,28,Pommer Ave,Staten Island,NY,250.0,250.0
+72,"Adams, Eric L",1/6/2025,,"Carotenuto, Donna",New York,NY,10018,Business Development Manager,Magna Legal Services,320,West 37th Street,New York,NY,250.0,250.0
+73,"Adams, Eric L",1/8/2025,,"Cekic, Ermina",Northport,NY,11768,Homemaker,,,,,,250.0,0.0
+74,"Adams, Eric L",6/6/2024,9/16/2024,"Chalme', Raymond",New York,NY,10028,,,,,,,-2100.0,0.0
+75,"Adams, Eric L",1/9/2025,,"Chalme, Richard",Brooklyn,NY,11223,Sales,BlueSwitch,29,Broadway,New York,NY,250.0,250.0
+76,"Adams, Eric L",8/29/2024,,"Chan, David",Astoria,NY,11101,Self Employee,Hinds Combat Sports,4416,23rd Street,Astoria,NY,250.0,250.0
+77,"Adams, Eric L",7/8/2024,,"Chan, Kenny",Bayside,NY,11361,,Self Employed,4534,202nd Street,Bayside,NY,250.0,250.0
+78,"Adams, Eric L",7/11/2024,9/16/2024,"Chan, Max",Warren,NJ,07059,,,,,,,-2100.0,0.0
+79,"Adams, Eric L",7/18/2024,,"Chan, Oi",Flushing,NY,11378,Manager,Bravo USA llc,52-29,54th Street,Queens,NY,250.0,250.0
+80,"Adams, Eric L",7/9/2024,,"Chan, Shing C",Bayside,NY,11364,Merchant,Kari-Out Co.,520,White Plains Road,Sleepy Hollow,NY,250.0,250.0
+81,"Adams, Eric L",1/9/2025,,"chang, mee",Brooklyn,NY,11218,Clothing Designer,Sweet Apparel,1410,Broadway,New York,NY,150.0,150.0
+82,"Adams, Eric L",1/10/2025,,"Chattah, Teddy",West long branch,NJ,07764,Real estate,Cohen Equities,555,Madison Ave,new york,NY,2100.0,0.0
+83,"Adams, Eric L",8/16/2024,,"Chaudhary, Ismat",Staten Island,NY,10304,Pharmacist,Maimonides Medical Center,740,Targee Street,Staten Island,NY,250.0,250.0
+84,"Adams, Eric L",7/6/2024,,"Chen, Chao Hong",Staten Island,NY,10312,Bus Operator,New York City Transit,40,Yukon Avenue,Staten Island,NY,250.0,250.0
+85,"Adams, Eric L",7/10/2024,,"Chen, Daniel Shi Pin",Staten Island,NY,10304,Manager,2110 Group Inc.,2100,Richmond Road,Staten Island,NY,250.0,250.0
+86,"Adams, Eric L",7/9/2024,,"Chen, Ji Hua",Brooklyn,NY,11220,Home Assistant,True Care,812,60th Street,Brooklyn,NY,250.0,250.0
+87,"Adams, Eric L",7/12/2024,,"Chen, Michael",New York,NY,10022,Not Employed,Not Employed,575,Madison Avenue,New York,NY,2100.0,250.0
+88,"Adams, Eric L",7/8/2024,,"Chen, Qiaohui",Brooklyn,NY,11228,Owner,U Plus Yoga,6322,20th Avenue,Brooklyn,NY,250.0,250.0
+89,"Adams, Eric L",7/10/2024,,"Chen, Ray",Brooklyn,NY,11235,Broker,Bayshine Real Estate Corp,4205,8th Avenue,Brooklyn,NY,250.0,250.0
+90,"Adams, Eric L",7/10/2024,,"Chen, Sandra",Palisades Park,NJ,07650,Accountant,Cosco Shipping Inc.,100,Lighting Way,Secaucus,NJ,250.0,0.0
+91,"Adams, Eric L",7/23/2024,,"Chen, Wei",New York,NY,10065,Not Employed,Not Employed,,,,,250.0,250.0
+92,"Adams, Eric L",7/17/2024,,"Chen, Weihong",Brooklyn,NY,11228,Worker,ABI Health Care,13107,40th Road,Flushing,NY,280.0,250.0
+93,"Adams, Eric L",7/10/2024,,"Chen, Xiu",Flushing,NY,11354,CEO,Benu Naturans Inc.,13694,Roosevelt Avenue,Flushing,NY,250.0,250.0
+94,"Adams, Eric L",7/8/2024,,"Chen, Xiuqing",New York,NY,10009,Nail Artist,Nail Lin,832,57th Street,Brooklyn,NY,250.0,250.0
+95,"Adams, Eric L",7/8/2024,,"Chen, Yanfang",Flushing,NY,11378,,,,,,,250.0,250.0
+96,"Adams, Eric L",7/8/2024,,"Chen, Yufeng",Brooklyn,NY,11220,,Retired,,,,,250.0,250.0
+97,"Adams, Eric L",7/9/2024,9/16/2024,"Chen, Zhenyu",Flushing,NY,11354,,,,,,,-250.0,0.0
+98,"Adams, Eric L",7/5/2024,9/16/2024,"Chernov, Leonid",Brooklyn,NY,11235-666,,,,,,,-400.0,0.0
+99,"Adams, Eric L",7/10/2024,,"Cheung, Hay Loi",Brooklyn,NY,11220,,Retired,,,,,250.0,0.0
+100,"Adams, Eric L",8/23/2024,,"Chevreux, Alain",Ardsley,NY,10502,,Retired,,,,,250.0,0.0
+101,"Adams, Eric L",8/5/2024,,"Chin, David",Rockville Centre,NY,11570,Management,Golden Seldom Realty LLC,2417,Jericho Turnpike,North New Hyde Park,NY,250.0,0.0
+102,"Adams, Eric L",7/26/2024,,"Cho Cheung, Ka",Staten Island,NY,10305,Manager,Sundimension Auto,1339,61st Street,Brooklyn,NY,250.0,250.0
+103,"Adams, Eric L",7/7/2024,7/16/2024,"Chou, Chen Wei",Flushing,NY,11375,,,,,,,-250.0,0.0
+104,"Adams, Eric L",1/10/2025,,"Chowdhury, Azharul",Buffalo,NY,14221,Manager,Bari HomeCare LLC,977,Sycamore Street,Buffalo,NY,2100.0,0.0
+105,"Adams, Eric L",7/8/2024,,"Chu, Chu Kwok",Queens,NY,11373,,,,,,,250.0,250.0
+106,"Adams, Eric L",7/10/2024,,"Chu, Norma",New York,NY,10001,,,,,,,100.0,0.0
+107,"Adams, Eric L",7/10/2024,9/16/2024,"Coalition, BRC",Bronx,NY,10454,,,,,,,-2100.0,0.0
+108,"Adams, Eric L",8/29/2024,,"Cohen, Charles",Plandome,NY,11030,Vice President,Pyramid America,1,Haven Avenue,Mt Vernon,NY,250.0,0.0
+109,"Adams, Eric L",1/7/2025,,"Cohen, Elisheva",Valley Stream,NY,11581,Wine Cellar Designer,Self-Employed,690,Sherwood Street,Valley Stream,NY,2100.0,0.0
+110,"Adams, Eric L",7/24/2024,,"Cohen, Joseph",Pacific Palisades,CA,90272,Chairman,West Ridge,15468,Albright Street,Los Angeles,CA,2100.0,0.0
+111,"Adams, Eric L",1/7/2025,,"Cohen, Justin",Cherry Hill Township,NJ,08002,Attorney,"Kotlar, Hernandez and Cohen",16000,Commerce Pkwy,Mt Laurel Township,NJ,250.0,0.0
+112,"Adams, Eric L",1/9/2025,,"Cohen, Mitchell",Florham Park,NJ,07932,Account Executive,Morgan & Morgan,850,3rd Avenue,Brooklyn,NY,200.0,0.0
+113,"Adams, Eric L",1/7/2025,,"Cohen, Yedidya",Valley Stream,NY,11581,Recruiting,Self-Employed,690,Sherwood ST,Valley Stream,NY,2100.0,0.0
+114,"Adams, Eric L",7/10/2024,,"Collado, Jose D",New York,NY,10009,Executive Member,United Bodegas of America,3840,9th Aveue,New York,NY,250.0,250.0
+115,"Adams, Eric L",7/10/2024,,"Conejo, Francis J",Bronx,NY,10463,Detective,NYPD,1,Police Plaza,New York,NY,250.0,250.0
+116,"Adams, Eric L",1/8/2025,,"Contreras, Teresa",Freeport,NY,11520,Administrative Assistant,Topline Managemet  LLC,600,Madison Avenue,New York,NY,2100.0,0.0
+117,"Adams, Eric L",1/9/2025,,"Cooper, Bradley",Sunny Isles Beach,FL,33160,Finance,MC Law,19443,40th Ct,Sunny Isles Beach,FL,400.0,0.0
+118,"Adams, Eric L",1/10/2025,,"Cooper, Brian",New York,NY,10014,Real estate,KV,41,Madison Avenue,New York,NY,2100.0,250.0
+119,"Adams, Eric L",8/23/2024,,"Cooperstone, Elliot",East Hampton,NY,11937,Investor,InTandem Capital Partners,1,Vanderbilt Avenue,New York,NY,2100.0,0.0
+121,"Adams, Eric L",8/29/2024,,"Coreas, Yesenia",Queens Village,NY,11428,Valet,Tri State Parking Inc,142,Mineola Avenue,Roslyn Heights,NY,250.0,250.0
+122,"Adams, Eric L",8/26/2024,,"Courtis, Nikolaos",Greenvale,NY,11548,Construction,Anadomisis construction,15,Addison Lane,Greenvale,NY,500.0,0.0
+123,"Adams, Eric L",1/8/2025,,"Cruzado, Chrissy",Ozone Park,NY,11417,Paralegal,Ross and Hill,45,Broadway,New York,NY,250.0,0.0
+124,"Adams, Eric L",8/16/2024,,"Curtis, Al",Staten Island,NY,10301,Consultant,A. Boima Curtis & Associates L,11,Tompkins Circle,Staten Island,NY,500.0,0.0
+126,"Adams, Eric L",8/15/2024,,"Davis, Jeffrey",North Castle,NY,10504,Development,Self,9,Banksville Road,North Castle,NY,2100.0,0.0
+127,"Adams, Eric L",7/11/2024,,"Davydov, Jonathan",Jamaica,NY,11435,Real Estate,Self Employed,80-15,188th Street,Jamaica,NY,250.0,250.0
+128,"Adams, Eric L",12/20/2024,,"Dayan, Amalia",New York,NY,10075,Owner,Amalia Dayan LLC,77,East 77th Street,New York,NY,2100.0,250.0
+129,"Adams, Eric L",8/26/2024,,"Delgado, Derek",Flushing,NY,11362,Event Planner,Dinero Events LLC,26243,Grand Central Pkwy,Flushing,NY,250.0,250.0
+130,"Adams, Eric L",1/9/2025,,"DeLusant, Steve",Hoboken,NJ,07030,President - Sales (NY),iHeartMedia Entertainment Inc,125,West 55th Street,New York,NY,250.0,0.0
+132,"Adams, Eric L",8/8/2024,,"Denobile, John",Miami Beach,FL,33139,Investor,Self,40,Dogwood Hill Road,U SADDLE RIV,NJ,250.0,0.0
+134,"Adams, Eric L",8/5/2024,,"Devlin, Thomas",Jefferson Valley,NY,10535,,Eurotech Construction,1212,6th Avenue,New York,NY,2000.0,0.0
+135,"Adams, Eric L",8/23/2024,,"Diggs, Lenny",Buford,GA,30518,Teacher,Gwinett County Public Schools,437,Old Peachtree Rd NW,Johns Creek,GA,35.0,0.0
+136,"Adams, Eric L",7/15/2024,,"Dolan Weber, Marianne",Yorktown Heights,NY,10598,Manager,MLC Ventures LLC,PO,Box 1014,Yorktown Heights,NY,2100.0,0.0
+137,"Adams, Eric L",7/15/2024,,"Dolan, Aidan",Oyster Bay,NY,11771,Board of Directors,Knickerbocker Group LLC,2,Penn Plaza,New York,NY,2100.0,0.0
+138,"Adams, Eric L",7/26/2024,,"Dolan, James",Oyster Bay,NY,11771,Executive Chairman,MSG Entertainment Corp,2,Penn Plaza,Manhattan,NY,2100.0,0.0
+139,"Adams, Eric L",7/8/2024,,"Dong, Fengbin",Brooklyn,NY,11220,,Housewife,,,,,250.0,250.0
+140,"Adams, Eric L",7/8/2024,,"Dong, Longguan",Brooklyn,NY,11209,,Retired,,,,,250.0,250.0
+141,"Adams, Eric L",7/8/2024,7/30/2024,"Donnelly, Louise E",Flushing,NY,11379,,,,,,,-2000.0,0.0
+142,"Adams, Eric L",7/14/2024,,"Dorsin, Robert J",St. Albans,NY,11412,Driver,Self,11826,201st Street,Queens,NY,1.0,1.0
+150,"Adams, Eric L",8/23/2024,,"Downs, Eugene",New York,NY,10016,,Retired,,,,,25.0,25.0
+151,"Adams, Eric L",6/13/2024,8/16/2024,"Drukker, Boris",Brooklyn,NY,11216,,,,,,,-100.0,0.0
+152,"Adams, Eric L",8/5/2024,,"Duffy, Roisin",Flushing,NY,11378,,Homemaker,,,,,2000.0,0.0
+153,"Adams, Eric L",8/29/2024,,"Duka, Musa",Staten Island,NY,10307,Sales,Silverstone Sheetmetal,66,Huntington Street,Brooklyn,NY,250.0,250.0
+154,"Adams, Eric L",7/9/2024,9/16/2024,"Duke, Compton",New York,NY,10002,,,,,,,-200.0,0.0
+155,"Adams, Eric L",7/8/2024,8/16/2024,"Durels, Steven",New York,NY,10128,,,,,,,-1700.0,0.0
+156,"Adams, Eric L",1/8/2025,,"Dushey, David",New York,NY,10075,Real estate,Jenel RE,275,Madison Avenue,New York,NY,2100.0,0.0
+157,"Adams, Eric L",12/20/2024,,"Dushey, Jack",New York,NY,10017,Retired,,,,,,2100.0,250.0
+159,"Adams, Eric L",1/8/2025,,"Dushey, Joseph",New York,NY,10022,Real estat,Jenel management corp,275,Madison Avenue,New York,NY,1000.0,0.0
+160,"Adams, Eric L",1/9/2025,,"Dushey, Sam",Miami beach,FL,33139,Executive,Jenel real estate,275,Madison Avenue,New York,NY,2100.0,0.0
+161,"Adams, Eric L",6/6/2024,8/16/2024,"Dweck, Eli",Brooklyn,NY,11223,,,,,,,-2100.0,0.0
+162,"Adams, Eric L",7/17/2024,,"Dweck, Joey",Brooklyn,NY,11223,Director of Strategic Accounts,Care Connect,2122,East 2nd Street,Brooklyn,NY,250.0,250.0
+163,"Adams, Eric L",1/10/2025,,"Dweck, Margarette",New York,NY,10001,Real estate,Premier Equities,1151,Broadway,New York,NY,2100.0,250.0
+164,"Adams, Eric L",11/16/2024,,"Dzabunidze, Irakli",Brooklyn,NY,11211,Chief Operating Officer,American Express Limo Inc.,2433,Knapp Street,Brooklyn,NY,250.0,0.0
+165,"Adams, Eric L",8/29/2024,,"Edelstein, Josh",Sleepy Hollow,NY,10591,Not Employed,Not Employed,57,Cobb Lane,Sleepy Hollow,NY,250.0,0.0
+166,"Adams, Eric L",8/23/2024,,"Eglinton, Kristen A",New York,NY,10003,Researcher,Self,33,Irving Pl,New York,NY,25.0,25.0
+167,"Adams, Eric L",7/17/2024,,"Eigner, Isaac",Lakewood,NJ,08701,Healthcare,Lumina Care LLC,463,Flushing Avenue,Brooklyn,NY,250.0,0.0
+168,"Adams, Eric L",1/10/2025,,"Eisenman, Alan",W Hempstead,NY,11552-340,Financial Services,AllianceBernstein,66,Hudson Boulevard East,New York,NY,150.0,0.0
+169,"Adams, Eric L",12/10/2024,,"Eisner, Scott",San Juan,,00909,Consultant,Self-Employed,1511,Ponce De Leon Avenue,San Juan,PR,1000.0,0.0
+170,"Adams, Eric L",8/16/2024,,"Elatat, Ali",Staten Island,NY,10304,Physician,A Atat Progressive medicine,9001,Fort Hamilton Pkwy,Brooklyn,NY,1500.0,250.0
+171,"Adams, Eric L",11/16/2024,,"Elborai, Andy",Staten Island,NY,10301,,Unemployed,,,,,250.0,0.0
+172,"Adams, Eric L",7/10/2024,9/16/2024,"Elefterakis, Gregory",PECK SLIP,NY,10038,,,,,,,-2100.0,0.0
+173,"Adams, Eric L",12/18/2024,,"Englander, Caryl",New York,NY,10022,Homemaker,,,,,,2100.0,250.0
+175,"Adams, Eric L",7/10/2024,,"Escano, Rafael",New York,NY,10040,Aid,NYC Council,163 W,125th Street,New York,NY,250.0,250.0
+176,"Adams, Eric L",8/8/2024,,"Esposito, Maria",Staten Island,NY,10306,Mortgage Banker,Citizens Bank,437,Madison Avenue,Manhattan,NY,250.0,250.0
+177,"Adams, Eric L",8/29/2024,,"Estrella, Eddy",Brooklyn,NY,11226,Accountant,Estrella Business Services Cor,7269,61st Street,Flushing,NY,250.0,0.0
+178,"Adams, Eric L",7/10/2024,,"Estrella, Julain A",Bronx,NY,10467,Director,High Class Bronx Limousine,268,W. Fordham Road,Bronx,NY,250.0,250.0
+179,"Adams, Eric L",1/10/2025,,"Fagan, Patrick",Brooklyn,NY,11238,CTHRO,NYCPS,65,Court Street,Brooklyn,NY,500.0,250.0
+180,"Adams, Eric L",7/17/2024,,"Fairley- Smith, Gwendolyn",Brooklyn,NY,11237,Owner,GCF Ventures LLC,7211,Austin Street,Flushing,NY,1000.0,250.0
+181,"Adams, Eric L",1/10/2025,,"Faizy, Raziya",Hicksville,NY,11801,HR,Lal Global Group,983,Willis Avenue,Albertson,NY,500.0,0.0
+182,"Adams, Eric L",7/11/2024,8/16/2024,"Falack, Jack",Brooklyn,NY,11230,,,,,,,-1700.0,0.0
+183,"Adams, Eric L",1/8/2025,,"Faqiri, Zabiulla",Flushing,NY,11357,Fruit vendor,Self Employed,24-30,160th Street,Flushing,NY,250.0,0.0
+184,"Adams, Eric L",1/6/2025,,"Fass, Nosson",New York,NY,10005,CPA,Fasten Halberstam LLP,40,Wall Street,New York,NY,2100.0,250.0
+185,"Adams, Eric L",7/17/2024,,"Feig, Ezra",Brooklyn,NY,11218,CMO,Rove Nutrition,1,N Fourth Place,Brooklyn,NY,250.0,250.0
+186,"Adams, Eric L",1/10/2025,,"Feirstein, Barry",New York,NY,10021,Retired,,,,,,2100.0,250.0
+187,"Adams, Eric L",8/8/2024,,"Felici, Massimo",Staten Island,NY,10305,Executive Chef,Don Cheech LLC,1271,Bay Street,Staten Island,NY,250.0,250.0
+188,"Adams, Eric L",1/6/2025,,"Felipe-Adams, Denise",Brooklyn,NY,11237,Executive Director,City of New York Mayor's Offic,375,Pearl Street,New York,NY,250.0,250.0
+189,"Adams, Eric L",7/23/2024,,"Feng, Ping",Staten Island,NY,10305,,Unemployed,,,,,250.0,250.0
+190,"Adams, Eric L",8/23/2024,,"Ferguson, Ashanti",Bloomfield,NJ,07003,Registered Nurse,St. Joseph's Health,11,Getty Ave,Paterson,NJ,50.0,0.0
+191,"Adams, Eric L",7/17/2024,,"Field, Ivan",Miami Beach,FL,33140,Bread Distribution,Metro Food Distributors Inc,33-50,12th Street,Queens,NY,2100.0,0.0
+193,"Adams, Eric L",7/16/2024,,"Fischer, Cary",Brooklyn,NY,11235,Attorney,Brooklyn District Attorney,350,Jay Street,Brooklyn,NY,200.0,200.0
+194,"Adams, Eric L",1/8/2025,,"Fisher, Bill",New York,NY,10038,CEO,Pedago,130,William Street,New York,NY,250.0,0.0
+195,"Adams, Eric L",5/27/2024,8/14/2024,"Flatto, Adam",New York,NY,10022,,,,,,,-1700.0,0.0
+196,"Adams, Eric L",9/13/2024,,"Flores, Jacob",Portland,OR,97202-663,Not Employed,Not Employed,1327,SE Tacoma St,Portland,OR,1.0,0.0
+197,"Adams, Eric L",8/2/2024,,"Fodera, Richard",Brooklyn,NY,11209,Attorney,Self,87,81st Street,Brooklyn,NY,2100.0,250.0
+198,"Adams, Eric L",7/17/2024,,"Forman, Ruth",Woodland Hills,CA,91364,Author,Self,23061,Mosby Street,Woodland Hills,CA,10.0,0.0
+201,"Adams, Eric L",7/12/2024,,"Franco, Joseph",Brooklyn,NY,11230,Importer,Self employeed,40,E34th Street,New York,NY,2100.0,250.0
+202,"Adams, Eric L",7/16/2024,,"Freilich, Lipa",Brooklyn,NY,11232,Management,Platinum Home Health Care,170,53rd Street,Brooklyn,NY,500.0,250.0
+203,"Adams, Eric L",7/17/2024,,"Friedman, Joel",Brooklyn,NY,11219,Home care,Alternate Staffing,4918,Fort Hamilton Parkway,Brooklyn,NY,250.0,250.0
+204,"Adams, Eric L",10/16/2024,,"Friedman, Steven",Brooklyn,NY,11229,Private Investigator / Owner,S&F Investigations Inc.,2312,Stuart Street,Brooklyn,NY,250.0,250.0
+205,"Adams, Eric L",12/13/2024,,"Frimerman, Joseph",Brooklyn,NY,11213,,,,,,,250.0,250.0
+206,"Adams, Eric L",7/17/2024,,"Frisher, Ilya",Fair Lawn,NJ,07410,President,Care Aide Direct,2368,Adam Clayton Powell Jr. Boulevar,Manhattan,NY,250.0,0.0
+207,"Adams, Eric L",1/8/2025,,"Frist, Ayal",Boca Raton,FL,33433,Real estate consultant,Self-Employed,7633,Martinique Boulevard,Boca Raton,FL,2100.0,0.0
+208,"Adams, Eric L",1/8/2025,,"Frist, Deena",Boca Raton,FL,33433,Homemaker,,,,,,2100.0,0.0
+209,"Adams, Eric L",7/17/2024,,"From, Daniel",Bronx,NY,10462,Home care,Amazing HC,1601,Bronxdale Avenue,Bronx,NY,250.0,250.0
+210,"Adams, Eric L",1/10/2025,,"FRUCHTHANDLER, YEHOSHUA",BROOKLYN,NY,11230,Real Estate Owner,FBE Limited LLC,1,STATE STREET,NEW YORK,NY,400.0,0.0
+211,"Adams, Eric L",9/11/2024,,"Fulton, Timothy",Brooklyn,NY,11211,Scrap Metal Recycler,T&T Scrap,340,Maspeth Ave,Brooklyn,NY,2100.0,0.0
+213,"Adams, Eric L",7/12/2024,,"Gammal, Charles",Brooklyn,NY,11223,Self,Charleson Group,1430,Broadway,New York,NY,2100.0,250.0
+214,"Adams, Eric L",7/16/2024,,"Ganapavarapu, Ravikanth",Pittsburg,CA,94565,Not Employed,Not Employed,,,,,2100.0,0.0
+215,"Adams, Eric L",1/6/2025,,"Gangemi, John",Westbury,NY,11590,Legal Finance,Self-Employed,990,Corporate Drive,Westbury,NY,1000.0,0.0
+216,"Adams, Eric L",7/24/2024,,"Ganz, Martin",Brooklyn,NY,11210,Health care,Mark’s Home Care Agency,1122,Coney Island Avenue,Brooklyn,NY,500.0,250.0
+217,"Adams, Eric L",1/11/2025,,"Garcia, Braulio Del Rio",The Bronx,NY,10453,Manager,1096 Brook Parking Corp,1096,Brook Avenue,The Bronx,NY,2100.0,250.0
+218,"Adams, Eric L",9/12/2024,,"Garofalo, Joseph",Staten Island,NY,10314,Not Employed,Not Employed,291,Chelsea Rd,Staten Island,NY,2100.0,0.0
+220,"Adams, Eric L",8/29/2024,,"Gassanov, Shamil",Glen Gardner,NJ,08826,Manager,City Cab Management LLC,4533,37th Street,Astoria,NY,250.0,0.0
+221,"Adams, Eric L",8/29/2024,,"Gelashvili, Ekaterine",Brooklyn,NY,11209,Reception/Assistant,Michael Emanuel DDS,2053,E16th Street,Brooklyn,NY,250.0,250.0
+222,"Adams, Eric L",8/29/2024,,"Gelashvili, George",Brooklyn,NY,11209,Banquet Event Manager,Exquisite Staffing LLC,224,W 30th Street,New York,NY,250.0,0.0
+223,"Adams, Eric L",1/7/2025,,"Genet, Sam",Miami Beach,FL,33140,Real estate,Self-Employed,1111,Kane Concourse,Bay Harbor Islands,FL,2100.0,0.0
+224,"Adams, Eric L",7/3/2024,8/16/2024,"Genovese, Stephen",Oyster Bay,NY,11771,,,,,,,-400.0,0.0
+225,"Adams, Eric L",1/7/2025,,"Gentili, Robert",Long Beach,NY,11561,Finance,Self-Employed,260,West Broadway,Long Beach,NY,500.0,0.0
+226,"Adams, Eric L",9/16/2024,,"Gersamia, Lasha",Brooklyn,NY,11219,,Self Employee,,,,,250.0,0.0
+228,"Adams, Eric L",8/29/2024,,"Geyer, Matthew",Brooklyn,NY,11220,Accountant,Lehman Flynn Vollaro,534,Broadhollow Road,Huntington Station,NY,250.0,250.0
+229,"Adams, Eric L",,,"Giaccio, Michael",Brooklyn Heights,NY,11201,,,,,,,2149.38,0.0
+230,"Adams, Eric L",12/10/2024,,"Gill, Stephen",San Juan,PR,00907,Foudner | CEO,Self-Employed,71 Calle,Ojeda,San Juan,PR,1000.0,0.0
+231,"Adams, Eric L",8/20/2024,,"Gioiella, Russell",New York,NY,10021,,,,,,,2100.0,0.0
+232,"Adams, Eric L",6/6/2024,8/18/2024,"Gjaci, Elisjon",Yonkers,NY,10701,,,,,,,-250.0,0.0
+233,"Adams, Eric L",1/9/2025,,"Gold, Lorraine",New York,NY,10128,Marketing,Delta ent,114,West 26th Street,New York,NY,1600.0,250.0
+234,"Adams, Eric L",8/1/2024,,"Goldberg, Mark",Basking Ridge,NJ,07920,Executive,Rolex Industries Inc.,650,Fifth Avenue,Manhattan,NY,2100.0,0.0
+235,"Adams, Eric L",8/23/2024,,"Golden, Clarence",New York,NY,10026,Retired,Retired,,,,,25.0,25.0
+236,"Adams, Eric L",8/29/2024,,"Golub, Raisa",Brooklyn,NY,11214,,,,,,,250.0,0.0
+237,"Adams, Eric L",8/8/2024,,"Gomez, Edda",Staten Island,NY,10314,Not Employed,Not Employed,,,,,250.0,250.0
+238,"Adams, Eric L",8/29/2024,,"Granados, Ashly",Queens Village,NY,11428,,Student,,,,,250.0,0.0
+239,"Adams, Eric L",8/5/2024,,"Grant, Jonathan",Roslyn,NY,11576,Not Employed,Not Employed,,,,,2100.0,0.0
+240,"Adams, Eric L",7/4/2024,9/16/2024,"Green, Nancy A",Jupiter,FL,33477,,,,,,,-2100.0,0.0
+241,"Adams, Eric L",7/3/2024,9/16/2024,"Green, Stephen",Jupiter,FL,33477,,,,,,,-2000.0,0.0
+242,"Adams, Eric L",7/3/2024,9/16/2024,"Greenberg, Michael",Merrick,NY,11566,,,,,,,-2000.0,0.0
+243,"Adams, Eric L",8/29/2024,,"Greenes, Max",New York,NY,10075,,Self Employed,,,,,500.0,250.0
+244,"Adams, Eric L",1/6/2025,,"Greenseid, Russell",Millburn,NJ,07078,Medical,Self-Employed,3500,Nostrand Avenue,Brooklyn,NY,250.0,0.0
+245,"Adams, Eric L",1/9/2025,,"Gribetz, Seth",Englewood,NJ,07631,Investor,Self-Employed,100,Challenger Road,Ridgefield Park,NJ,2100.0,0.0
+246,"Adams, Eric L",12/13/2024,,"Gross, Nechama",Brooklyn,NY,11225,,,,,,,250.0,250.0
+247,"Adams, Eric L",1/8/2025,,"Gross, Rory",Cedarhurst,NY,11516,Legal Funding,5 Star Legal Funding,333,Jericho Turnpike,Jericho,NY,250.0,0.0
+248,"Adams, Eric L",1/9/2025,,"Grossman, Matthew",New York,NY,10001-216,Finance,Self-Employed,15,Hudson Yards,New York,NY,2100.0,250.0
+249,"Adams, Eric L",7/11/2024,9/16/2024,"Gudimetla, Bhaskar",Hockessin,DE,19707,,,,,,,-2100.0,0.0
+250,"Adams, Eric L",8/18/2024,,"Gulati, Shyam",Old Westbury,NY,11568,IT Consulting,InfoPeople Corporation,450,Seventh Avenue,New York,NY,2100.0,0.0
+252,"Adams, Eric L",8/29/2024,,"Gulchekhra, Sobirova",Brooklyn,NY,11204,Dispatcher,Limo 7,653,E 5th Street,Brooklyn,NY,250.0,0.0
+253,"Adams, Eric L",7/25/2024,,"Guo, Tingyan",New York,NY,10036,Business Manager,New Land Capital,605,W 42nd Street,Manhattan,NY,250.0,250.0
+254,"Adams, Eric L",7/15/2024,,"Gural, Jeffrey",New York,NY,10024,Executive,GFP Real Estate,125,Park Avenue,New York,NY,400.0,0.0
+256,"Adams, Eric L",7/10/2024,,"Gutierrez, Juan C",New York,NY,10032,,,,,,,200.0,200.0
+257,"Adams, Eric L",1/7/2025,,"Haber, Jimmy",New York,NY,10075,Retired,,,,,,1600.0,0.0
+258,"Adams, Eric L",7/17/2024,,"Hagmann, Julian",Flushing,NY,11375,Healthcare,Caring Professionals Inc.,7020,Austin Street,Flushing,NY,250.0,250.0
+259,"Adams, Eric L",1/10/2025,,"Haider, Shakib",New York,NY,11208,Business,Self-Employed,1088,Liberty Avenue,Brooklyn,NY,2100.0,250.0
+260,"Adams, Eric L",7/21/2024,,"Hakimi, Farhad",Kings Point,NY,11024,Design,Frederic Sage,98,Cuttermill Road,GREAT NCK PLZ,NY,520.0,0.0
+262,"Adams, Eric L",12/13/2024,,"Halberstam, Devorah",Brooklyn,NY,11213,Director of external affairs,Jewish childrens museum,792,Eastern Parkway,Brooklyn,NY,250.0,250.0
+263,"Adams, Eric L",7/30/2024,,"Halbert, Michael jordan",New York,NY,10025,Business,Self Employed,25,Imperial Street,Toronto,,200.0,200.0
+264,"Adams, Eric L",1/6/2025,,"Hallet, Dr. Kate",Brooklyn,NY,11218,Consultant,Self-Employed,593,Coney Island Avenue,Brooklyn,NY,25.0,0.0
+265,"Adams, Eric L",7/25/2024,,"Hao Chin, Jia",Flushing,NY,11365,,Unemployed,,,,,250.0,250.0
+266,"Adams, Eric L",7/25/2024,,"Hao, Wei",Flushing,NY,11354,Not Employed,Not Employed,,,,,250.0,250.0
+267,"Adams, Eric L",7/10/2024,,"Harary, Janet",Brooklyn,NY,11223,Homemaker,,,,,,2100.0,250.0
+268,"Adams, Eric L",1/8/2025,,"Harmouche, Khadija",Brooklyn,NY,11235,Program Manager,CABS Health Network,630,Flushing Avenue,Brooklyn,NY,25.0,0.0
+269,"Adams, Eric L",1/8/2025,,"Hassan, Mohammad",Glen Oaks,NY,11004,D . Manager,Popeyes,40,Empire Boulevard,Brooklyn,NY,500.0,0.0
+270,"Adams, Eric L",7/25/2024,,"He, Fang Quan",Flushing,NY,11355,Real estate broker,Self employed,44-15,College Point Boulevard,Queens,NY,250.0,250.0
+271,"Adams, Eric L",7/23/2024,,"He, Jingjing",New York,NY,10065,Not Employed,Not Employed,,,,,25.0,25.0
+273,"Adams, Eric L",7/22/2024,,"He, Wei",Woodside,NY,11377,Manager,All Dental Care,136-20,Maple Avenue,Flushing,NY,250.0,250.0
+274,"Adams, Eric L",1/9/2025,,"HER, SHARON KS",Brooklyn,NY,11203,Writer/filmmaker,Self-Employed,3400,Snyder Ave,Brooklyn,NY,100.0,100.0
+275,"Adams, Eric L",9/14/2024,,"Heras, Richard",Queens,NY,11373,Manager,Reinforcing Supply,350,Morgan Ave,Brooklyn,NY,1000.0,0.0
+277,"Adams, Eric L",8/30/2024,,"Heredia, Diana",Bronx,NY,10456,Fabric Director,Carolina Herrera,501,7th Avenue,New York,NY,300.0,0.0
+278,"Adams, Eric L",8/29/2024,,"Hernandez, Chanel",Yonkers,NY,10710,Owner,Aki Mobility Inc,1148,46th Road,Astoria,NY,250.0,0.0
+279,"Adams, Eric L",8/29/2024,,"Hernandez, Juan M",Rosedale,NY,11422,Dispatcher,Ari Mobility Inc,1148,46th Road,Astoria,NY,250.0,0.0
+280,"Adams, Eric L",8/24/2024,,"Hernandez, Mike",Bellerose,NY,11001,NYC General Contractor,Visionary Builders Inc,46-02,88 Street,Queens,NY,250.0,0.0
+281,"Adams, Eric L",1/8/2025,,"Hidary, Abraham",Brooklyn,NY,11230,CEO,FirstRidge Service Partners,450,Park Avenue,New York,NY,500.0,0.0
+282,"Adams, Eric L",1/11/2025,,"Higgins, James",New York,NY,10013,Investment Management,New Vernon Capital,62,Elm St,Morristown,NJ,250.0,250.0
+283,"Adams, Eric L",12/28/2024,,"Hill, Adam",New York,NY,10038,Attorney,Ross & Hill,45,Broadway,New York,NY,2100.0,250.0
+284,"Adams, Eric L",12/30/2024,,"Hill, Arthur",Cortlandt Manor,NY,10567,Lawyer,Ross and Hill,45,Broadway,New York,NY,2100.0,0.0
+285,"Adams, Eric L",1/2/2025,,"Hill, JJ",New York,NY,10013,Lawyer,Self-Employed,One,State Street Plaza,New York,NY,1850.0,0.0
+286,"Adams, Eric L",7/10/2024,8/16/2024,"Hiraldo, David",Stormville,NY,12582,,,,,,,-50.0,0.0
+287,"Adams, Eric L",1/9/2025,,"Hofstedter, renee",Brooklyn,NY,11230,Homemaker,,,,,,2100.0,250.0
+288,"Adams, Eric L",7/11/2024,9/16/2024,"Holliday, Deena",North Caldwell,NJ,07006,,,,,,,-500.0,0.0
+289,"Adams, Eric L",8/20/2024,,"Hossain, Nadia",Flushing,NY,11358,Realtor,Related,555,West 22nd Street,New York,NY,250.0,0.0
+290,"Adams, Eric L",7/11/2024,9/16/2024,"Houllou, Albert",Brooklyn,NY,11230,,,,,,,-2100.0,0.0
+291,"Adams, Eric L",6/9/2024,8/16/2024,"Howard, Lance",New York,NY,10001,,,,,,,-600.0,0.0
+292,"Adams, Eric L",7/6/2024,7/15/2024,"Hu, Yan Bei",Flushing,NY,11362,,,,,,,-250.0,0.0
+293,"Adams, Eric L",7/17/2024,,"Hua Wu, Fang",Brooklyn,NY,11214,Manager,LK Express Inc.,247,Avenue Z,Brooklyn,NY,250.0,250.0
+294,"Adams, Eric L",7/16/2024,,"Huang, Eugene",Brooklyn,NY,11223,Real estate developement,Hang Seng Capital Group,5805,7th Avenue,Brooklyn,NY,250.0,250.0
+295,"Adams, Eric L",7/9/2024,,"Huang, Xintian",Setauket- East Setauket,NY,11733,,Retired,,,,,250.0,0.0
+296,"Adams, Eric L",8/29/2024,,"Hubi, Hava G",Mt Vernon,NY,10552,Captain Hospital Police,NYC Health & Hospital Bellevue,462,1st Avenue,New York,NY,250.0,0.0
+297,"Adams, Eric L",8/29/2024,,"Ibragimov, Akbar",Brooklyn,NY,11234,Shop Driver,Self Employee,1325,39th Street,Brooklyn,NY,250.0,250.0
+298,"Adams, Eric L",9/19/2024,,"Ibragimov, Temurjon",Brooklyn,NY,11219,Business Owner,Self Employee,1601,Voorhies Avenue,Brooklyn,NY,250.0,0.0
+300,"Adams, Eric L",1/8/2025,,"Ibrahimi, Abrahim",Huntington Station,NY,11747,,,,,,,1000.0,0.0
+301,"Adams, Eric L",8/29/2024,,"Idrees, Marghoob",Commack,NY,11725,Tax Preparer,Self Employed,320,Post Avenue,Westbury,NY,250.0,0.0
+302,"Adams, Eric L",5/10/2024,9/16/2024,"INC, ND",Bronx,NY,10458,,,,,,,-400.0,0.0
+303,"Adams, Eric L",8/24/2024,,"Infante, Jasmil",Flushing,NY,11368,Not Employed,Not Employed,37-32,97 Street,Flushing,NY,250.0,250.0
+304,"Adams, Eric L",11/16/2024,,"Isakov, Sergey",Brooklyn,NY,11235,President,Nina's Transportation,293,Avenue S,Brooklyn,NY,250.0,250.0
+305,"Adams, Eric L",1/10/2025,,"ISLAM, MD JAHIRUL",Elmont,NY,11003,President,Self-Employed,382,Lucille Avenue,Elmont,NY,2100.0,250.0
+306,"Adams, Eric L",8/16/2024,,"Iswara, Kadirawel",Staten Island,NY,10301,Doctor,Self,6010,Bay Parkway,Brooklyn,NY,250.0,250.0
+307,"Adams, Eric L",1/8/2025,,"Izadi, Moshe",Livingston,NJ,07039,Ceo,Park Right,524,West 46th Street,New York,NY,2100.0,0.0
+308,"Adams, Eric L",1/9/2025,,"Jacobi, yaron",New York,NY,10022,Real Estate,Self-Employed,1151,Broadway,New York,NY,2100.0,250.0
+309,"Adams, Eric L",1/9/2025,,"Jacobowitz, Moshe",Woodmere,NY,11598,Lawyer,Self-Employed,377,Pearsall Avenue,Cedarhurst,NY,2100.0,0.0
+310,"Adams, Eric L",8/6/2024,,"James, Sesame",Brooklyn,NY,11213,Law Enforcement,City of New York,1,Police Plaza,New York,NY,50.0,50.0
+312,"Adams, Eric L",8/29/2024,,"Jepsen, Elizabeth",Omaha,NE,68116,Executive Assistant,Kinetik,1148,46th Road,Astoria,NY,250.0,0.0
+313,"Adams, Eric L",7/10/2024,8/16/2024,"Jerome, Jacob",PECK SLIP,NY,10038,,,,,,,-1600.0,0.0
+314,"Adams, Eric L",7/10/2024,9/16/2024,"Jerome, Louis",Brooklyn,NY,11230,,,,,,,-2000.0,0.0
+315,"Adams, Eric L",7/28/2024,,"Jian Chen, Chong",Flushing,NY,11365,Consultant,Super World Trading Inc.,28,Varick Avenue,Brooklyn,NY,250.0,250.0
+316,"Adams, Eric L",12/14/2024,,"Johnson, Christopher Leo",Brooklyn,NY,11213,Security professional,Allied Universal,229,W36th Street,New York,NY,10.0,0.0
+319,"Adams, Eric L",1/8/2025,,"Jousma, George",Fort Lauderdale,FL,33301,Sales Director,Self-Employed,1535,SE 17th St,Fort Lauderdale,FL,2100.0,0.0
+320,"Adams, Eric L",7/17/2024,,"Kahan, Josh",Brooklyn,NY,11219,Home Care,Crown Home Care,1368,60th Street,Brooklyn,NY,1000.0,250.0
+321,"Adams, Eric L",7/18/2024,,"Kai Jiang, Sun",Staten Island,NY,10305,Sales,Flaming Grill Buffet,125,South Carlton Street,Harrisonburg,VA,250.0,250.0
+322,"Adams, Eric L",6/20/2024,8/16/2024,"Kalafatis, John",Astoria,NY,11101,,,,,,,-250.0,0.0
+323,"Adams, Eric L",8/22/2024,,"Kambitsis, Angelo",Staten Island,NY,10306,Entrepreneur,Kambitsis Group (Self),74,St George Rd,Staten Island,NY,1000.0,250.0
+324,"Adams, Eric L",8/29/2024,,"Kamysheva, Valentina",Brooklyn,NY,11223,,,,,,,250.0,250.0
+325,"Adams, Eric L",1/9/2025,,"Kaplan, Cary",Brooklyn Heights,NY,11201,Attorney,The Law Offices of Kaplan & Ka,44,Court Street,Brooklyn Heights,NY,250.0,250.0
+326,"Adams, Eric L",12/21/2024,,"Kapoor, Ashish",Watchung,NJ,07069-641,President,Infotech Global Inc,343,Thornall St,Edison,NJ,2100.0,0.0
+330,"Adams, Eric L",1/8/2025,,"Karimzada, Salimon",Plainview,NY,11803,Manager,Stasi,435,Maple Avenue,Westbury,NY,250.0,0.0
+331,"Adams, Eric L",6/24/2024,8/16/2024,"Karnovsky, David",New York,NY,10023,,,,,,,-600.0,0.0
+332,"Adams, Eric L",8/29/2024,,"Kazaryan, Greta",Brooklyn,NY,11239,,,,,,,250.0,0.0
+333,"Adams, Eric L",8/29/2024,,"Kazaryan, Margarita",Brooklyn,NY,11239,,,,,,,250.0,0.0
+335,"Adams, Eric L",1/8/2025,,"Khaski, Jack",Brooklyn,NY,11223,Real estate,Self-Employed,2244,E Third St,Brooklyn,NY,500.0,0.0
+336,"Adams, Eric L",1/8/2025,,"Khosdal, waheed",Glen Oaks,NY,11004,Restaurant,Self-Employed,82-16,261st,Glen Oaks,NY,250.0,0.0
+337,"Adams, Eric L",8/29/2024,,"Khristoliubova, Maria",Brooklyn,NY,11223,Dispatching,Limo Seven,653,E 5th Street,Brooklyn,NY,250.0,0.0
+338,"Adams, Eric L",8/29/2024,,"Khuseyndzhon, Sobirov",Brooklyn,NY,11204,Dispatch Supervisor,Limo 7,653,E 5th Street,Brooklyn,NY,250.0,0.0
+339,"Adams, Eric L",1/8/2025,,"khwaja, sharif",Glen head,NY,11545,Real estate developer,Pheasant hill consultants,6,barn side lane,Glen head,NY,500.0,0.0
+340,"Adams, Eric L",1/11/2025,,"Kilman, Raeann",Boynton Beach,FL,33437,Retired,,,,,,2100.0,0.0
+341,"Adams, Eric L",7/15/2024,,"Kim, Karoline",Manhattan,NY,10019,Not Employed,Not Employed,8B,,Manhattan,NY,250.0,0.0
+342,"Adams, Eric L",8/29/2024,,"Kiria, Tornike",Brooklyn,NY,11230,,Unemployed,,,,,250.0,250.0
+343,"Adams, Eric L",7/17/2024,,"Klein, Joel",Ozone Park,NY,11417,Health Care,Caring,105-05,Crossbay Boulevard,Queens,NY,250.0,250.0
+344,"Adams, Eric L",7/17/2024,,"Klein, Yisrael",Flushing,NY,11369,Home Care,Aliah Home Care,98-04,Astoria Boulevard,Queens,NY,250.0,250.0
+345,"Adams, Eric L",7/17/2024,,"Kleinberger, Joel",Brooklyn,NY,11205,Admin,HDA Care,670,Flushing Avenue,BROOKLYN,NY,250.0,250.0
+346,"Adams, Eric L",7/23/2024,,"knox, annette",Englewood,NJ,07631,Educator,NYCDOE,4360,Broadway,New York,NY,250.0,0.0
+347,"Adams, Eric L",9/23/2024,,"Knox, Annette",Englewood,NJ,07631,Educator,NYC DOE,4360,Broadway,New York,NY,250.0,0.0
+349,"Adams, Eric L",8/26/2024,,KOBA,Flushing,NY,11375,,,,,,,250.0,0.0
+351,"Adams, Eric L",8/26/2024,,"Koba, Mike",Flushing,NY,11375,Not Employed,Not Employed,7050,Austin St,Flushing,NY,250.0,0.0
+354,"Adams, Eric L",6/26/2024,9/16/2024,"Kohn, Yehuda",Brooklyn,NY,11206,,,,,,,-150.0,0.0
+355,"Adams, Eric L",7/17/2024,,"Kolt, Avraham",Spring Valley,NY,10977,Executive,Inflowcare,88,Southgate Drive,Spring Valley,NY,250.0,0.0
+356,"Adams, Eric L",1/7/2025,,"Kostin, Mark",Flushing,NY,11375,Physician,Englinton Medical,95-25,Jamaica Avenue,Woodhaven,NY,1000.0,250.0
+357,"Adams, Eric L",1/7/2025,,"Kotlar, Adam",Voorhees Township,NJ,08043,Attorney,"Kotlar, Hernandez and Cohen",16000,Commerce Pkwy,Mt Laurel Township,NJ,250.0,0.0
+358,"Adams, Eric L",7/5/2024,9/16/2024,"Koufakis, Michael",Plandome,NY,11030,,,,,,,-2100.0,0.0
+359,"Adams, Eric L",10/16/2024,,"Kriss, Anna",Brooklyn,NY,11229,Cheif Executive Officer,American Express Limo Service,2433,Knapp Street,Brooklyn,NY,250.0,0.0
+360,"Adams, Eric L",8/29/2024,,"Kulishevsky, Vadim",Staten Island,NY,10314,,,,,,,250.0,0.0
+361,"Adams, Eric L",9/16/2024,,"Kvernadze, Beka",Brooklyn,NY,11209,Manager,Zp 2024 Corporation,2323,E 22nd Street,Brooklyn,NY,250.0,0.0
+363,"Adams, Eric L",8/29/2024,,"Kviatkovski, Saba",Brooklyn,NY,11235,,Self Employed,,,,,250.0,250.0
+364,"Adams, Eric L",1/10/2025,,"Labony, Farjana",Brooklyn,NY,11208,Unemployed,,,,,,2100.0,250.0
+365,"Adams, Eric L",1/8/2025,,"Laboz, Adele",Brooklyn,NY,11235,Homemaker,,,,,,2100.0,0.0
+366,"Adams, Eric L",1/9/2025,,"Laboz, Ezra",Brooklyn,NY,11235,Real Estate Leasing,United American Land,73,Spring Street,New York,NY,1650.0,250.0
+367,"Adams, Eric L",1/9/2025,,"laboz, fortune",Brooklyn,NY,11235,Student,,,,,,1200.0,250.0
+368,"Adams, Eric L",1/9/2025,,"Laboz, Jack",Brooklyn,NY,11235,Real estate,UAL,73,Spring Street,New York,NY,1200.0,250.0
+369,"Adams, Eric L",1/9/2025,,"Laboz, Jack A",Brooklyn,NY,11235,Developer,United American Land,73,Spring Street,New York,NY,1650.0,250.0
+370,"Adams, Eric L",1/9/2025,,"Laboz, Lara",Brooklyn,NY,11235,Homemaker,,,,,,2100.0,250.0
+371,"Adams, Eric L",9/1/2024,,"Lai, Edward",Brooklyn,NY,11214,SVP,Bensonhurst Center for Rehabil,1740,84th St,Brooklyn,NY,250.0,0.0
+372,"Adams, Eric L",7/19/2024,,"Lai, Pei Shan",Flushing,NY,11355,Building Construction / Manage,Apartment Complex (This Addres,4265,Kissena Boulevard,Queens,NY,250.0,250.0
+373,"Adams, Eric L",9/12/2024,,"Lamanna, Sabatino",Glen Head,NY,11545,Business Owner,Almar Supplies Inc.,248-22,Brookville Blvd,Rosedale,NY,2100.0,0.0
+375,"Adams, Eric L",7/16/2024,,"Landau, David",Fairfield,NJ,07004,CEO,DLA,295,Madison Avenue,New York,NY,2100.0,0.0
+376,"Adams, Eric L",7/12/2024,,"Landau, Eric",BOWLING GREEN,NY,10004,Attorney,Paul Hasting LLP,200,Park Avenue,New York,NY,1000.0,250.0
+377,"Adams, Eric L",8/29/2024,,"Lantsberg, Mikhail",Brooklyn,NY,11229,Owner,Journey Inc.,2312,Stuart Avenue,Brooklyn,NY,250.0,250.0
+378,"Adams, Eric L",1/7/2025,,"Lanzkron, Shifra",Clifton,NJ,07012,Homemaker,,,,,,2100.0,0.0
+379,"Adams, Eric L",9/12/2024,,"Larkin, James",Scarsdale,NY,10583,Manufacturer,Reinforcing Supply,350,Morgan Ave,Brooklyn,NY,2100.0,0.0
+381,"Adams, Eric L",7/10/2024,,"Lau, Helen",Brooklyn,NY,11214,Clerk,Maimonides Midwood Hospital,2525,Kings Highway,Brooklyn,NY,100.0,100.0
+382,"Adams, Eric L",7/17/2024,,"Lavihayem, Tzvi",Lakehurst,NJ,08759,Health Care,Platinum,172,Hillside Boulevard,Lakewood,NJ,250.0,0.0
+383,"Adams, Eric L",5/24/2024,7/12/2024,"Lebovitch, Herman",Brooklyn,NY,11234,,,,,,,-1000.0,0.0
+384,"Adams, Eric L",1/7/2025,,"Lee, Julie",Brooklyn,NY,11206,Attorney,Ross and Hill,45,Broadway,New York,NY,300.0,250.0
+385,"Adams, Eric L",7/7/2024,,"Lei, Bobby",New York,NY,10002,Business Owner,Lucky Grand Bakery,280,Grand Street,New York,NY,250.0,250.0
+386,"Adams, Eric L",7/9/2024,,"Lei, Karen S",Brooklyn,NY,11214,School Staff,NYC Department of Education,1031,59th Street,Brooklyn,NY,250.0,250.0
+387,"Adams, Eric L",7/19/2024,,"Leifer, Berel",Bronx,NY,10465,Home Healthcare,Prompt Care Management LLC,2800,Bruckner Boulevard,Bronx,NY,250.0,250.0
+388,"Adams, Eric L",7/18/2024,,"Leung, Michael T",Hollis,NY,11423,,Retired,,,,,250.0,0.0
+390,"Adams, Eric L",1/3/2025,,"Levy, Brian",Syosset,NY,11791,Attorney,Brian J Levy & Associates PC,75,Jackson Avenue,Syosset,NY,2100.0,0.0
+391,"Adams, Eric L",12/13/2024,,"Lezell, Schneur",Brooklyn,NY,11213,,,,,,,250.0,250.0
+392,"Adams, Eric L",7/25/2024,,"Li, Leon",GREAT NCK PLZ,NY,11021,Investor Relations,New Land Capital,60,E 42nd Street,Manhattan,NY,250.0,0.0
+393,"Adams, Eric L",7/25/2024,,"Li, Lin",Jackson Heights,NY,11372,Not Employed,Not Employed,,,,,250.0,250.0
+394,"Adams, Eric L",7/25/2024,,"Li, Peng",Flushing,NY,11357,,Unemployed,,,,,250.0,250.0
+395,"Adams, Eric L",7/9/2024,,"Li, Xing Hua",Brooklyn,NY,11234,Accountant,Z and Z Market Inc.,6511,Bay Parkway,Brooklyn,NY,250.0,250.0
+396,"Adams, Eric L",7/25/2024,,"Li, Zhenhua",Flushing,NY,11354,,Unemployed,,,,,250.0,250.0
+397,"Adams, Eric L",7/10/2024,,"Li- Cavallo, Wen",Brooklyn,NY,11218,Dentist,Bella Dental,36,Pell Street,Canal Street,NY,250.0,250.0
+398,"Adams, Eric L",7/18/2024,,"Liang Liu, Xi",Flushing,NY,11354,Manager,Sh168 LLC,142-28,38th Avenue,Flushing,NY,300.0,250.0
+399,"Adams, Eric L",7/8/2024,,"Liang, Mingfeng",Brooklyn,NY,11219,,Retired,,,,,250.0,250.0
+400,"Adams, Eric L",7/8/2024,,"Liang, Shou Biao",Brooklyn,NY,11228,,,,,,,250.0,250.0
+401,"Adams, Eric L",7/17/2024,,"Lichtenstein, Kivi",Ozone Park,NY,11417,Homecare,Link Homecare,2056,59th Street,Brooklyn,NY,250.0,250.0
+402,"Adams, Eric L",7/15/2024,,"Lichtenstein, Shifra",Lakewood,NJ,08701,Not Employed,Not Employed,,,,,2100.0,0.0
+403,"Adams, Eric L",12/13/2024,,"Lieblich, Sam",Brooklyn,NY,11213,,,,,,,250.0,250.0
+404,"Adams, Eric L",1/9/2025,,"Lifshitz, Adam",Boca Raton,FL,33433,Student,,,,,,2100.0,0.0
+405,"Adams, Eric L",1/9/2025,,"Lifshitz, Andrew",Lawrence,NY,11559,Student,,,,,,2100.0,0.0
+406,"Adams, Eric L",1/9/2025,,"Lifshitz, Arielle",Lawrence,NY,11559,CEO of COFUS,Self-Employed,22,Auerbach Lane,Lawrence,NY,2100.0,0.0
+407,"Adams, Eric L",8/20/2024,,"Ligardo, Laurence",Flushing,NY,11370,Self Employed,AG LLC,3012,82 Street,Flushing,NY,250.0,250.0
+408,"Adams, Eric L",8/29/2024,,"Liguori, Blake",Canal Street,NY,10013,Event Coordinator,B25 Inc,1,Haven Avenue,Mt Vernon,NY,250.0,250.0
+409,"Adams, Eric L",8/29/2024,,"Liguori, Erol",Bronx,NY,10471,President,B25 Inc,1,Haven Avenue,Mt Vernon,NY,250.0,250.0
+411,"Adams, Eric L",8/29/2024,,"Liguori, Leyla",Bronx,NY,10471,Customer Service,Pyramid America,1,Haven Avenue,Mt Vernon,NY,250.0,250.0
+412,"Adams, Eric L",8/29/2024,,"Liguori, Semra",Bronx,NY,10471,Manager,Ace Posters,1,Haven Avenue,Mt Vernon,NY,250.0,250.0
+413,"Adams, Eric L",9/1/2024,,"Lin, Andy",Staten Island,NY,10305,VP,Truecare,117,Church Ave,Brooklyn,NY,250.0,250.0
+414,"Adams, Eric L",7/9/2024,9/16/2024,"Lin, Haiwei",Flushing,NY,11354,,,,,,,-250.0,0.0
+415,"Adams, Eric L",7/8/2024,,"Lin, Ru Feng",Brooklyn,NY,11228,Owner,Mx Beauty,766,52nd Street,Brooklyn,NY,200.0,200.0
+416,"Adams, Eric L",7/9/2024,9/16/2024,"Lin, Shaoyuan",Flushing,NY,11354,,,,,,,-250.0,0.0
+417,"Adams, Eric L",7/11/2024,,"Lin, Xiao Qin",Brooklyn,NY,11219,Front Desk,Joyful Adult Day Care Center,736,61st Street,Brooklyn,NY,250.0,0.0
+418,"Adams, Eric L",7/8/2024,,"Lin, Xue",Flushing,NY,11355,Server,Wai Jun Inc.,1345,East Putnam Avenue,Old Greenwich,CT,250.0,250.0
+419,"Adams, Eric L",6/7/2024,8/16/2024,"Lipman, Lawrence",Harrison,NY,10528,,,,,,,-100.0,0.0
+420,"Adams, Eric L",7/26/2024,,"Littman, Jayson",New York,NY,10009,Event Management,City of New York,253,Broadway,New York,NY,72.0,72.0
+421,"Adams, Eric L",7/8/2024,,"Liu, Fang Bin",Brooklyn,NY,11219,Realtor,Winzune Realty Inc.,8115,Queens Blvd.,Queens,NY,250.0,250.0
+422,"Adams, Eric L",7/9/2024,,"Liu, Helen",Brooklyn,NY,11204,,NYU Langone Ambulatory Care Ba,6740,4th Avenue,Brooklyn,NY,250.0,250.0
+423,"Adams, Eric L",1/7/2025,,"Lloyd, Oliver",Miami Beach,FL,33140,Real Estate Agent,Douglas Elliman,5555,Biscayne Boulevard,Miami,FL,2100.0,0.0
+424,"Adams, Eric L",8/5/2024,,"Logozio, Robert",Sleepy Hollow,NY,10591,Master Electrician,Team Electric Inc.,20,W36th Sreet,New York,NY,2000.0,0.0
+425,"Adams, Eric L",1/2/2025,,"London, Cary",Sag Harbor,NY,11963,Attorney,Shulman and Hill,1,State Street Plaza,New York,NY,250.0,0.0
+426,"Adams, Eric L",1/6/2025,,"London, Stuart",New York,NY,10028,Attorney,"Worth London & Martinez, LLP",111,John Street,New York,NY,250.0,250.0
+427,"Adams, Eric L",7/15/2024,,"Long, Johm",New York,NY,10016,Not Employed,Not Employed,,,,,250.0,250.0
+428,"Adams, Eric L",7/15/2024,,"Long, Paulette",New York,NY,10016,Business Owner,Self-employed,105,East 38th Street,Manhattan,NY,250.0,250.0
+429,"Adams, Eric L",1/11/2025,,"Lou, Lisa",Elmhurst,NY,11373,Real Estate Broker,Self-Employed,60-53,Woodhaven Boulevard,Elmhurst,NY,1500.0,250.0
+430,"Adams, Eric L",7/11/2024,9/16/2024,"Lowy, Daniel",New York,NY,10023-349,,,,,,,-2100.0,0.0
+431,"Adams, Eric L",7/8/2024,,"Lu, Meiying",Brooklyn,NY,11220,,Housewife,,,,,250.0,250.0
+432,"Adams, Eric L",7/14/2024,,"Lusk, Andrew",New York,NY,10024,Not Employed,Not Employed,170,W 81st St,New York,NY,250.0,250.0
+433,"Adams, Eric L",8/1/2024,,"MacNabb Nederlander, Margo",New York,NY,10023,,Homemaker,,,,,2100.0,250.0
+434,"Adams, Eric L",8/7/2024,,Madison Square Garden New York,New York,NY,10121,,,,,,,2100.0,0.0
+435,"Adams, Eric L",8/29/2024,,"Mahbubur, Rahman",Hicksville,NY,11801,CTO,Kinetik LLC,11-48,46th Road,Astoria,NY,250.0,0.0
+436,"Adams, Eric L",8/29/2024,,"Maisuradze, Sopio",Brooklyn,NY,11235,Office Manager,Bay Fleet Corporation,1717,Avenue Z,Brooklyn,NY,250.0,250.0
+437,"Adams, Eric L",7/17/2024,,"Majer, Louis",Brooklyn,NY,11210,Sales,Leading Edge,14,Wall Street,New York,NY,180.0,180.0
+438,"Adams, Eric L",8/24/2024,,"Majka, Alexandra",Pompton Lakes,NJ,07442,Sales Coordinator,Related Companies,Hudson y,10 Hudson Yards,New York,NY,250.0,0.0
+439,"Adams, Eric L",1/8/2025,,"Malekan, Manouchehr",Mineola,NY,11501,Real estate,Self-Employed,48,east old country road,Mineola,NY,1000.0,0.0
+440,"Adams, Eric L",1/7/2025,,"Malhotra, Ashwin",Englewood Cliffs,NJ,07632,Neurologist,Self-Employed,50 Court,Court st.,Brooklyn,NY,2100.0,0.0
+441,"Adams, Eric L",7/11/2024,,"Malik, Yasmin",Albertson,NY,11507,,Malik Management,,,,,750.0,0.0
+442,"Adams, Eric L",7/8/2024,8/16/2024,"Mancuso, Neil",Oyster Bay,NY,11771-182,,,,,,,-400.0,0.0
+443,"Adams, Eric L",8/16/2024,,"Manolatos, Dionisios",Smithtown,NY,11787,Inspector,Beyond The Beams Home Inspecto,215-02,23rd Street,Bayside,NY,250.0,0.0
+444,"Adams, Eric L",1/10/2025,,"Manopla, Albert",Brooklyn,NY,11223,Real Estate,KSR,1385,Broadway,New York,NY,1000.0,250.0
+445,"Adams, Eric L",1/8/2025,,"Manopla, Albert J.",New York,NY,10018,Real estate,KSR,1385,Broadway,New York,NY,500.0,0.0
+446,"Adams, Eric L",7/17/2024,,"Marton, Hershy",Brooklyn,NY,11206,Administrator,Marton Care,98,Lorimer Street,Brooklyn,NY,500.0,250.0
+447,"Adams, Eric L",1/8/2025,,"MASI, JOE",Verona,NJ,07044,PRESIDENT,RMD CONSTRUCTION LLC dba ESSEX,562,Main Street,City of Orange,NJ,2100.0,0.0
+448,"Adams, Eric L",9/9/2024,,"Mastronardi, Antonio",Brooklyn,NY,11206,Ready Mix,United Transit Mix,318,Boerum Street,Brooklyn,NY,2100.0,0.0
+450,"Adams, Eric L",7/9/2024,9/16/2024,"Mathias, Andrew",Greenwich,CT,06830,,,,,,,-400.0,0.0
+451,"Adams, Eric L",7/9/2024,9/16/2024,"Mathias, Kristina",Greenwich,CT,06830,,,,,,,-2000.0,0.0
+452,"Adams, Eric L",6/20/2024,8/16/2024,"Mattone, Carl",Bayside,NY,11364,,,,,,,-250.0,0.0
+453,"Adams, Eric L",8/24/2024,,"Maultsby, Derrick",Flushing,NY,11375,Transportation,Local 817,817,Old Cutler Mill Road,GREAT NCK PLZ,NY,250.0,250.0
+454,"Adams, Eric L",8/24/2024,,"Maultsby, Erick",Flushing,NY,11375,Hospitality,Goldie Hospitality,98-01,67 Ave,Flushing,NY,250.0,250.0
+455,"Adams, Eric L",7/17/2024,,"Max, Avraham",Toms River,NJ,08755,Home care Operations,Truecare,117,Church Avenue,Brooklyn,NY,250.0,0.0
+456,"Adams, Eric L",1/8/2025,,"Mayar, Ali",Melville,NY,11747,Fiance,Straight line source,9,Louis Dr,Melville,NY,1000.0,0.0
+457,"Adams, Eric L",8/23/2024,,"Mayhue, Rosa",New York,NY,10024,Entrepreneur,Self,111,,New York,NY,25.0,25.0
+458,"Adams, Eric L",8/15/2024,,"Mazzone, Philip",Brooklyn,NY,11237,Owner,Gotham Ready Mix LLC,200,Morgan Ave,Brooklyn,NY,2100.0,250.0
+459,"Adams, Eric L",8/5/2024,,"McEntee, Gerard",Eastchester,NY,10709,Carpenter,Self Employee,417,5th Avenue,New York,NY,2000.0,0.0
+460,"Adams, Eric L",7/9/2024,9/16/2024,"Mckiernan, James",New York,NY,10065,,,,,,,-2000.0,0.0
+461,"Adams, Eric L",6/24/2024,8/16/2024,"McKissack Daniel, Cheryl",North Castle,NY,10504,,,,,,,-400.0,0.0
+462,"Adams, Eric L",1/8/2025,,"McNair, James",Las Vegas,NV,89145,Executive assistant,Mayweather promotions,4020,Schiff Drive,Las Vegas,NV,2100.0,0.0
+463,"Adams, Eric L",7/26/2024,,"Meisels, Maurice",Brooklyn,NY,11204,Management,Rockaway Homecare,260,Doughty Blvd,Far Rockaway,NY,250.0,250.0
+464,"Adams, Eric L",8/29/2024,,"Mekhmonaliyev, Voriskhon",Brooklyn,NY,11235,General Manager,Samarkand Transportation,1601,Voorhies Avenue,Brooklyn,NY,250.0,0.0
+465,"Adams, Eric L",8/29/2024,,"Melkadze, Giorgi",Brooklyn,NY,11209,,Self Employed,,,,,250.0,250.0
+466,"Adams, Eric L",8/29/2024,,"Melkadze, Levani",Brooklyn,NY,11210,,Self Employed,,,,,250.0,0.0
+467,"Adams, Eric L",7/24/2024,,"Mendez, Andre",Ozone Park,NY,11417,,Unemployed,,,,,50.0,0.0
+468,"Adams, Eric L",8/20/2024,,"Mendez, Lyndon",Ozone Park,NY,11417,,Unemployed,,,,,250.0,0.0
+469,"Adams, Eric L",11/16/2024,,"Mercedes, Ollies",Bronx,NY,10468,Salesman,Jeep of Manhattan,678,11th Avenue,New York,NY,250.0,0.0
+470,"Adams, Eric L",7/10/2024,,"Mercedes, Wilton",New York,NY,10032,City Laborer,NYPD,1,Police Plaza,PECK SLIP,NY,250.0,250.0
+471,"Adams, Eric L",1/11/2025,,"Mermelstein, Fay",New York,NY,10069,Retired,,,,,,250.0,250.0
+472,"Adams, Eric L",7/18/2024,,"Miao, Miao",Brooklyn,NY,11220,Not Employed,Not Employed,,,,,250.0,250.0
+473,"Adams, Eric L",1/8/2025,,"Minervini, Anthony",Middletown Township,NJ,07748,Global Litigation Support Acco,Lexitas Legal,38,Bonnie Drive,Middletown Township,NJ,250.0,0.0
+474,"Adams, Eric L",1/9/2025,,"Minovici, Stefan",New York,NY,10025,President & CEO,Minovici International Consult,45,Broadway,New York,NY,500.0,0.0
+475,"Adams, Eric L",1/9/2025,,"mirzoeff, adam",Lawrence,NY,11559,Jeweler,ECG,580,Fifth Ave 1115,New York,NY,250.0,0.0
+476,"Adams, Eric L",8/29/2024,,"Misaylidi, Laura",Brooklyn,NY,11223,,,,,,,250.0,0.0
+477,"Adams, Eric L",8/29/2024,,"Misaylidi, Yuriy",Brooklyn,NY,11223,,,,,,,250.0,0.0
+478,"Adams, Eric L",1/10/2025,,"Mishan, Jack",Brooklyn,NY,11223,Real Estate,Self-Employed,1151,Broadway,New York,NY,2100.0,250.0
+479,"Adams, Eric L",7/12/2024,,"Moamem, Shaun",New York,NY,10175,Title Insurance,Pro National Title Agency,390,North Broadway,Jericho,NY,250.0,250.0
+480,"Adams, Eric L",1/5/2025,,"Modi, Mukesh",Jericho,NY,11753,Vp sales,Self-Employed,82,East Marie Street,Hicksville,NY,2100.0,0.0
+481,"Adams, Eric L",8/16/2024,,"Mohabeer, Linnet",Staten Island,NY,10303,Nurse,White Glove Home Health,501,Netherland Ave,Staten Island,NY,250.0,250.0
+482,"Adams, Eric L",7/8/2024,8/16/2024,"Moinian, Joseph",New York,NY,10065,,,,,,,-1700.0,0.0
+483,"Adams, Eric L",7/29/2024,,"Montalvo, Elvis",Staten Island,NY,10306,Police Detective,NYPD,1,Police Plaza Police,New York,NY,250.0,250.0
+484,"Adams, Eric L",7/12/2024,,"Moore, Paul",Carlstadt,NJ,07072,President,MRS,20,University Place,Carlstadt,NJ,2000.0,0.0
+485,"Adams, Eric L",8/23/2024,,"Moore, Ronald",Far Rockaway,NY,11691,Investigative Analyst,The New York Foundling Hospita,590,6th Ave,New York,NY,25.0,25.0
+486,"Adams, Eric L",1/7/2025,,"Mosaver, Abdul",Woodbury,NY,11797,Business,Self-Employed,48,Broadway,Greenlawn,NY,2100.0,0.0
+487,"Adams, Eric L",5/9/2024,9/16/2024,"Movsumov, Oleg",Brooklyn,NY,11235,,,,,,,-250.0,0.0
+488,"Adams, Eric L",7/11/2024,,"Murdakhayev, David",Jamaica,NY,11432,Developer,,184-37,Tudor Road,Jamaica,NY,250.0,250.0
+489,"Adams, Eric L",1/5/2025,,"Murray, Kevin",Fernandina Beach,FL,32034,CEO Advisor,Self-Employed,440,Beachside Place,Fernandina Beach,FL,500.0,0.0
+490,"Adams, Eric L",8/16/2024,,"Naghiyev, Alakbar",Brooklyn,NY,11230,Edible Arrangements,Alakbar Naghiyev,1122,Avenue K,Brooklyn,NY,250.0,250.0
+491,"Adams, Eric L",1/8/2025,,"Najjar, Mohammed",Brooklyn,NY,11209,Owner,Self-Employed,7214,5th Avenue,Brooklyn,NY,250.0,0.0
+492,"Adams, Eric L",1/8/2025,,"Nasary, Abdul W",Bayside,NY,11361,Office,New York Poultry Company,1143,Longwood Avenue,Bronx,NY,300.0,250.0
+493,"Adams, Eric L",1/8/2025,,"Nassiry, Mohammad",Towaco,NJ,07082,Real Estate,Self Employed,29,Weiss Drive,Towaco,NJ,1000.0,0.0
+494,"Adams, Eric L",8/29/2024,,"Naymanov, Renat",Brooklyn,NY,11235,Owner,City Cab Management LLC,4533,37th Street,Astoria,NY,250.0,250.0
+495,"Adams, Eric L",8/1/2024,,"Nederlander, James",New York,NY,10036,Owner,Nederlander Producing Company,1501,Broadway,Manhattan,NY,2100.0,250.0
+496,"Adams, Eric L",8/15/2024,,"Negron, Candice",Staten Island,NY,10302,Sergeant,NYPD,82,Blackford Ave,Staten Island,NY,250.0,250.0
+497,"Adams, Eric L",8/20/2024,,"Ng, Chris",Brooklyn,NY,11224,Owner,YBC Auto Group,2702,Stillwell Avenue,Brooklyn,NY,500.0,250.0
+498,"Adams, Eric L",8/15/2024,,"Nigel, Nelson",Flushing,NY,11356,CEO,Kidmoto Technologies,40,Wall Street,New York,NY,250.0,250.0
+499,"Adams, Eric L",7/10/2024,,"Noboa, Ulysses",New York,NY,10040,,Retired,,,,,250.0,0.0
+500,"Adams, Eric L",1/11/2025,,"Noor, Dawod",Melville,NY,11747,Franchisee,Self-Employed,254-55,Horace Harding Expressway,Little Neck,NY,2100.0,0.0
+501,"Adams, Eric L",1/8/2025,,"Noory, Amanullah",Valley Stream,NY,11580,,Retired,,,,,1250.0,0.0
+502,"Adams, Eric L",8/15/2024,,"Oberlander, Aaron",Spring Valley,NY,10977,CEO,HCS,25,Westside Ave,Spring Valley,NY,2100.0,0.0
+504,"Adams, Eric L",7/10/2024,,"Ogando, Bienvenido",Bronx,NY,10453,Independent,High Class,1657,Nelson Avenue,Bronx,NY,250.0,250.0
+505,"Adams, Eric L",8/2/2024,,"Oliveri, Paul",Brooklyn,NY,11234,Owner,Paul oliveri,9531,Roosevelt Avenue,Queens,NY,2100.0,250.0
+506,"Adams, Eric L",6/4/2024,8/14/2024,"Olshan, Andrea",Miami Beach,FL,33154,,,,,,,-600.0,0.0
+507,"Adams, Eric L",8/21/2024,,"Orisses, Anthony",Flanders,NY,11901,Rare Cut,Self,4557,Bell Blvd,Bayside,NY,250.0,0.0
+508,"Adams, Eric L",8/29/2024,,"Orozco, Priscilla",Ridgefield Park,NJ,07660,HR Manager,Sal Y Pimienta Restaurant & Ba,743,E. 187th Street,Bronx,NY,250.0,0.0
+509,"Adams, Eric L",8/11/2024,,"Ortiz, Arianne",Bronx,NY,10472,PPO,NYPD,1155,Evergreen Avenue,Bronx,NY,250.0,250.0
+510,"Adams, Eric L",1/8/2025,,"Orville-Shahzada, Marie",Brooklyn,NY,11209,Manager,NYC DOE,415,89th Street,Brooklyn,NY,50.0,0.0
+511,"Adams, Eric L",1/8/2025,,"Otkor, Iqbalbek",Bensalem,PA,19020,Physical therapist,Weinerman Pain and Wellness,1617,John F Kennedy Boulevard,Philadelphia,PA,700.0,0.0
+512,"Adams, Eric L",7/9/2024,,"Ou, Guo P",Brooklyn,NY,11234,Business Owner,Mr. Fruit Inc.,5616,8th Avenue,Brooklyn,NY,250.0,250.0
+513,"Adams, Eric L",7/19/2024,,"Ou, Lisi",Flushing,NY,11355,Care Worker,Eva Homecare Agency,104-70,Queens Boulevard,Flushing,NY,250.0,250.0
+514,"Adams, Eric L",1/11/2025,,"Oved, Nancy",Brooklyn,NY,11223,Homemaker,,,,,,2100.0,250.0
+515,"Adams, Eric L",6/20/2024,8/16/2024,"Palatnik, Eric",Sands Point,NY,11050,,,,,,,-250.0,0.0
+516,"Adams, Eric L",1/8/2025,,"Paranjothi, Vijay",Glen Oaks,NY,11004,District Manager,"Popeyes Louisiana Kitchen, Inc",14,McGraw Street,Smith Point,NY,500.0,250.0
+517,"Adams, Eric L",1/10/2025,,"Pardo, Albert",Brooklyn,NY,11230,Manufacturing,Self-Employed,31,West 34th Street,New York,NY,1500.0,250.0
+518,"Adams, Eric L",8/12/2024,,"Parsons, Richard",New York,NY,10012,Not Employed,Not Employed,,,,,2100.0,250.0
+519,"Adams, Eric L",6/24/2024,8/14/2024,"Patafio, Frank",Staten Island,NY,10312,,,,,,,-600.0,0.0
+520,"Adams, Eric L",8/29/2024,,"Pataridze, Zviadi",Brooklyn,NY,11229,COO,ZP 2024 Corporation,2323,E 22nd Street,Brooklyn,NY,250.0,250.0
+521,"Adams, Eric L",1/5/2025,,"Patel, Amita",Maspeth,NY,11378,Business Owner,Amita Shyam Patel,5457,65th Place,Maspeth,NY,2100.0,250.0
+522,"Adams, Eric L",1/5/2025,,"Patel, Shyam",Maspeth,NY,11378,Radiographer,Mount Sinai Hospital Center,1111,Amsterdam Avenue,New York,NY,2100.0,0.0
+523,"Adams, Eric L",8/23/2024,,"Patterson, Russell",Bronx,NY,10470,Retired,Retired,,,,,50.0,50.0
+524,"Adams, Eric L",1/11/2025,,"Paulino, Jackeline",New York,NY,10031,Manager,Self-Employed,4501,Broadway,New York,NY,2100.0,250.0
+525,"Adams, Eric L",1/11/2025,,"Paulino, Ramona",New Milford,NJ,07646,Manager,Self-Employed,268,Ridge Street,New Milford,NJ,2100.0,0.0
+526,"Adams, Eric L",1/11/2025,,"Paulino, Richard",New Milford,NY,10541,Manager,J P Parking II Corp,4501,Broadway,New York,NY,2100.0,0.0
+527,"Adams, Eric L",8/16/2024,,"Pena, Martin",Stroudsburg,PA,18360,Self,Martin Pena,311,Windsor Way,Stroudsburg,PA,250.0,0.0
+528,"Adams, Eric L",7/19/2024,,"Peninna Rosenberg, Johanna",Brooklyn,NY,11234,Not Employed,Not Employed,,,,,250.0,250.0
+529,"Adams, Eric L",8/5/2024,,"Perez, Carlos",Staten Island,NY,10302,Military,NYARNG,1,Buffington St,Watervliet,NY,500.0,250.0
+530,"Adams, Eric L",12/18/2024,,"Perez, Cesar",Bronx,NY,10467,Chauffeur,LGD,19,East 64th Street,New York,NY,2100.0,250.0
+531,"Adams, Eric L",7/10/2024,,"Perez, Ernesto A",New York,NY,10033,Taxi Driver,High Class Bronx Limousine,1700,Jerome Avenue,Bronx,NY,250.0,250.0
+532,"Adams, Eric L",12/13/2024,,"Perlman, Chaim",Brooklyn,NY,11213,,,,,,,250.0,250.0
+533,"Adams, Eric L",8/23/2024,,"Perry, Theo H",New York,NY,10009,Retired,Retired,,,,,100.0,0.0
+534,"Adams, Eric L",1/9/2025,,"Piazza, John",Staten Island,NY,10304,Chiropractor,New York Chiropractic & Physic,91,Central Park W,New York,NY,2100.0,250.0
+535,"Adams, Eric L",12/10/2024,,"Pierce, Brock",San Juan,PR,00901,Owner,Self-Employed,902,Villa Dorado Beach Estates,Dorado,PR,2100.0,0.0
+537,"Adams, Eric L",7/10/2024,,"Pimental, Alexander",New York,NY,10033,Sergent,NYPD,1,Police Plaza,New York,NY,300.0,0.0
+538,"Adams, Eric L",8/12/2024,,"Pineda Reyes, Rut",Brooklyn,NY,11204,Admin Assistant,Rehab One Physical Therapy PC,314,52nd Street,Brooklyn,NY,250.0,250.0
+539,"Adams, Eric L",8/16/2024,,"Pineda, Mariano",Staten Island,NY,10301,Not Employed,Not Employed,193,Vanduzer Street,Staten Island,NY,250.0,250.0
+541,"Adams, Eric L",8/12/2024,,"Pineda, Sara",Staten Island,NY,10310,Reception,Auditory Oral School of NY,3321,Avenue M,Brooklyn,NY,250.0,250.0
+542,"Adams, Eric L",8/9/2024,,"Pineda-Muyir, Claudia",Staten Island,NY,10310,Physician Assistant,CY Medical Care,210,Lawrence Avenue,Staten Island,NY,500.0,250.0
+543,"Adams, Eric L",,,"Pineda-Muyir, Clauida",,,,,,,,,,150.0,0.0
+544,"Adams, Eric L",8/19/2024,,"Pinos, Catherine",Flushing,NY,11358,Attorney,Self,4524,193 Street,Flushing,NY,250.0,250.0
+545,"Adams, Eric L",7/11/2024,,"Pinto, Domenico",Flushing,NY,11357,Founder,Ferrari Driving School,3232,Steinway Street,Astoria,NY,250.0,250.0
+546,"Adams, Eric L",7/17/2024,,"Podrigal, Joseph",Brooklyn,NY,11219,Cheif financial officer,Hamaspik Homecare,5,Perlman Drive,Brooklyn,NY,250.0,250.0
+547,"Adams, Eric L",8/21/2024,,"Pohl, Kelsey",Astoria,NY,11101,Real Estate,Related,2705,Thomson Avenue,Astoria,NY,250.0,0.0
+548,"Adams, Eric L",8/1/2024,,"Polonia, Franklyn",Baldwin,NY,11510,Entrepreneur,Haven staffing solutions Rosa,452,Amaterdom Avenue,Manhattan,NY,250.0,0.0
+549,"Adams, Eric L",7/17/2024,,"Polsky, Fred",Brooklyn,NY,11205,CDPAP Administrator,Health Aide Inc,670,Myrtle Avenue,Brooklyn,NY,180.0,180.0
+550,"Adams, Eric L",12/11/2024,,"Pool, Trent",Dripping springs,TX,78620,Consultant,Public Appeal,3800,creek rd,Dripping springs,TX,1000.0,0.0
+551,"Adams, Eric L",1/9/2025,,"Popper, Diana",Yardley,PA,19067,Homemaker,,,,,,2100.0,0.0
+552,"Adams, Eric L",1/9/2025,,"Preiserowicz, Yossi",Spring Valley,NY,10977,Real Estate,JLL,600,Madison Avenue,New York,NY,2100.0,0.0
+553,"Adams, Eric L",8/19/2024,,"Prentzas, Grammatiki",Flushing,NY,11370,Insurance Representative,National Life Group,19-46,75 Street,Flushing,NY,250.0,250.0
+554,"Adams, Eric L",9/19/2024,,"Prentzas, Konstantinos",Flushing,NY,11370,Business Consultant,The 360 Global Group,19-46,75 Street,Flushing,NY,500.0,250.0
+556,"Adams, Eric L",8/20/2024,,"Qi, Feilong",Flushing,NY,11354,,Unemployed,,,,,250.0,250.0
+557,"Adams, Eric L",8/20/2024,,"Qing Li, Yu",Brooklyn,NY,11223,HHA,American Bussiness Institute,131-07,40th Road,Flushing,NY,250.0,250.0
+558,"Adams, Eric L",8/20/2024,,"Qiu, James",Brooklyn,NY,11204,Manager,New Century Express,6916,Bay Parkway,Brooklyn,NY,250.0,250.0
+559,"Adams, Eric L",7/10/2024,,"Quezada, Santiago",New York,NY,10034,Manager,El Tina Restaurant,500,West 207th Street,New York,NY,250.0,0.0
+560,"Adams, Eric L",12/19/2024,,"Rabello, Alex",Forest Hills,NY,11375,Driver,432 Household,432,Park Avenue,New York,NY,2100.0,250.0
+561,"Adams, Eric L",7/9/2024,9/16/2024,"Rabinowitz, Stephen",Larchmont,NY,10538,,,,,,,-1000.0,0.0
+562,"Adams, Eric L",1/8/2025,,"Rahimi, Ahmad",bensalem,PA,19020-463,Self employed,Popeyes,501,Cambria Ave,bensalem,PR,1600.0,0.0
+563,"Adams, Eric L",1/8/2025,,"Rahimi, Nabilla",Bayside,NY,11360,Proprietor,Smiler's Gourmet Deli,637,9th Avenue,New York,NY,200.0,0.0
+564,"Adams, Eric L",6/30/2024,8/16/2024,"Rahimian, Ahmad",New York,NY,10016,,,,,,,-400.0,0.0
+565,"Adams, Eric L",1/8/2025,,"Rahman, Muhammad M",Valley Stream,NY,11581,District Manager,"Popeyes Louisiana Kitchen, Inc",983,Willis Avenue,Albertson,NY,500.0,0.0
+566,"Adams, Eric L",1/8/2025,,"Rahman, Ziaur",Woodside,NY,11377,District Manager,"Popeyes Louisiana Kitchen, Inc",983,Willis Avenue,Albertson,NY,500.0,250.0
+567,"Adams, Eric L",1/8/2025,,"Rahmani, Abdul",Oceanside,NY,11572,President & CEO,Phoenix Capital Partners LLC,1103,Stewart Avenue,Garden City,NY,1000.0,0.0
+568,"Adams, Eric L",8/29/2024,,"Ramirez, Zoilo",Yonkers,NY,10701,General Manager,Sandy's Restaurant,2261,2nd Avenue,New York,NY,250.0,0.0
+569,"Adams, Eric L",7/13/2024,,"Ramos, Tanaisha",Brooklyn,NY,11212,Deputy Chief of Staff,NYC,730,Rockaway Ave,Brooklyn,NY,100.0,0.0
+570,"Adams, Eric L",7/11/2024,9/16/2024,"Rasiej, Andrew",New York,NY,10003,,,,,,,-400.0,0.0
+571,"Adams, Eric L",1/3/2025,,"Reddy, Prashanth",New York,NY,10003,Physician,Self-Employed,30,East 9th Street,New York,NY,250.0,250.0
+572,"Adams, Eric L",8/29/2024,,"Redel, Jessica",New York,NY,10023,,Retired,,,,,500.0,250.0
+573,"Adams, Eric L",12/10/2024,,"Renoir, G",San Juan,,00901,Retired,,,,,,1999.0,0.0
+574,"Adams, Eric L",1/2/2025,,"Reyfman, Natalie",New York,NY,10013,Unemployed,,1976,Crotona Parkway,The Bronx,NY,2100.0,250.0
+575,"Adams, Eric L",7/10/2024,,"Reynoso, Eligio",New York,NY,10033,Teacher,Manhattan Country School,7 E,96th st,New York,NY,100.0,100.0
+576,"Adams, Eric L",7/13/2024,,"Riley, Gregory",West Haven,CT,06516,College Professor,CT State Norwalk,188,Richards Ave,Norwalk,CT,25.0,0.0
+577,"Adams, Eric L",8/29/2024,,"Riveras, Mariermis",Bronx,NY,10458,Waitress,,743,E 187th Street,Bronx,NY,250.0,0.0
+578,"Adams, Eric L",1/10/2025,,"RIVERS, VOZA",New York City,NY,10030,Retired,,,,,,100.0,0.0
+579,"Adams, Eric L",12/13/2024,,"Rivkin, Hanna",Brooklyn,NY,11213,,,,,,,250.0,250.0
+580,"Adams, Eric L",7/10/2024,,"Rodriguez, Elena",Flushing,NY,11385,,Retired,,,,,500.0,250.0
+581,"Adams, Eric L",7/10/2024,,"Rodriguez, Fernando",Yonkers,NY,10701,,Bodega,1814,Crotona Avenue,Bronx,NY,100.0,0.0
+582,"Adams, Eric L",8/29/2024,,"Rodriguez, Gus",Flushing,NY,11369,Manager,LaGuardia Cafe,97-02,23rd Avenue,Flushin,NY,250.0,0.0
+583,"Adams, Eric L",8/29/2024,,"Rodriguez, Hugo",Flushing,NY,11369,,Self Employee,,,,,250.0,0.0
+584,"Adams, Eric L",7/10/2024,,"Rodriguez, Jose J",Napanoch,NY,12458,CEO,Canal America Corp,175,Walnut Avenue,Bronx,NY,250.0,0.0
+585,"Adams, Eric L",8/29/2024,,"Rodriguez, Maria",Richmond Hill,NY,11418,Cashier,Chico's Food Universe,66-82,Fresh Pond Road,Flushing,NY,250.0,250.0
+586,"Adams, Eric L",1/8/2025,,"Rodriguez, Robert",Brooklyn,NY,11208,Senior Banker,Bank of America,151-16,84th Street,Howard Beach,NY,100.0,0.0
+587,"Adams, Eric L",1/10/2025,,"Rodriguez., Radhames",Port Chester,NY,10573,Owner,Luna wine and liquor,535,East Tremont Avenue,The Bronx,NY,2100.0,0.0
+588,"Adams, Eric L",1/9/2025,,"roman, Estevan",Jamaica,NY,11414,Marketing,Self-Employed,14,Mamaroneck Avenue,White Plains,NY,100.0,100.0
+589,"Adams, Eric L",1/11/2025,,"Romero, Mario",New Milford,NY,07646,Manager,JP Parking III Corp,4501,Broadway,New York,NY,2100.0,0.0
+590,"Adams, Eric L",6/13/2024,8/16/2024,"Romski, Gerard",Far Rockaway,NY,11692,,,,,,,-250.0,0.0
+591,"Adams, Eric L",7/10/2024,,"Rosario, Domingo",Astoria,NY,11104,Executive Member,United Bodegas of America,3840,9th Avenue,New York,NY,250.0,0.0
+592,"Adams, Eric L",1/6/2025,,"Rosen, David",New York,NY,10002,Attorney,Law Offices of David Rosen,58,Colgate Drive,Plainview,NY,150.0,0.0
+593,"Adams, Eric L",6/24/2024,9/16/2024,"Ross Esq., Michael",New York,NY,10020,,,,,,,-250.0,0.0
+594,"Adams, Eric L",12/30/2024,,"ross, james",brooklyn,NY,11201,attorney,Ross and Hill,45,Broadway,New York,NY,2100.0,250.0
+595,"Adams, Eric L",5/10/2024,8/16/2024,"Rowe Adams, Jackie",New York,NY,10032,,,,,,,-250.0,0.0
+596,"Adams, Eric L",8/5/2024,,"Rubin, Moshe",Toms River,NJ,08755,CEO,Moshe Rubin,1822,Regina Court,Toms River,NJ,1000.0,0.0
+597,"Adams, Eric L",1/6/2025,,"Ruiz, Ana",Jamaica,NY,11435,Paralegal,Ross and Hill,45,Broadway,New York,NY,250.0,250.0
+598,"Adams, Eric L",8/25/2024,,"Ruiz, Gustavo",North Massapequa,NY,11758,Owner,Pappa Gallo,558,Forest Ave,North Massapequa,NY,250.0,0.0
+599,"Adams, Eric L",7/12/2024,,"Sabin, Adriana",New York,NY,11105,Teacher,DOE,2066,27 Street,New York,NY,100.0,100.0
+600,"Adams, Eric L",1/8/2025,,"Sabiri, Mohammad E",Little Ferry,NJ,07643,Employee,Smith School,2,Monroe Street,Ramsey,NJ,500.0,0.0
+601,"Adams, Eric L",8/23/2024,,"Sacks, Evan",PECK SLIP,NY,10038,Attorney,Sacks and Sacks LLP,150,Broadway,PECK SLIP,NY,2100.0,250.0
+602,"Adams, Eric L",1/8/2025,,"Sadiqi, Atiqullah",Bellerose,NY,11426,Business,Self-Employed,82-33,252nd,Bellerose,NY,250.0,0.0
+603,"Adams, Eric L",1/8/2025,,"Safi, Noorkhaliq",Jackson Heights,NY,11372,Business,Self-Employed,75-22,37th Avenue,Jackson Heights,NY,500.0,0.0
+604,"Adams, Eric L",1/9/2025,,"Safier, Jacob",Far Rockaway,NY,11691,Finance,Self-Employed,6-26,Oak Drive,Far Rockaway,NY,2100.0,250.0
+605,"Adams, Eric L",1/8/2025,,"Salame, Robert",Brooklyn,NY,11210,Attorney,K&L Gates,599,Lexington Avenue,New York,NY,1000.0,0.0
+606,"Adams, Eric L",1/9/2025,,"Salameh, Gloria",Brooklyn,NY,11223,Marketing,Delta children,114,West 26th street,Brooklyn,NY,1000.0,250.0
+607,"Adams, Eric L",8/29/2024,,"Sanchez, Christopher",Howard Beach,NY,11414,Manager/Operator,1385 Bushwick Management Aka C,1385,Bushwick Avenue,Brooklyn,NY,250.0,0.0
+608,"Adams, Eric L",8/20/2024,,"Sang Ho, Keng",Brooklyn,NY,11204,Manager,Roaring  Truck Repair,1335,61st Street,Brooklyn,NY,250.0,250.0
+609,"Adams, Eric L",1/8/2025,,"Santana, Edward",Bloomfield,NJ,07003,Supervisor,Essex glass,562,Main Street,City of Orange,NJ,2100.0,0.0
+610,"Adams, Eric L",8/29/2024,,"Santos, Paul",Yonkers,NY,10705,Insurance Broker,Self Employee,37,W. Burnside Avenue,Bronx,NY,250.0,0.0
+611,"Adams, Eric L",7/11/2024,8/16/2024,"Sarduy, Mabel",Trinity,NY,10006,,,,,,,-1700.0,0.0
+612,"Adams, Eric L",1/2/2025,,"Sarner, Gary",Aventura,FL,33180,Owner,Roi360+,330,Davie Boulevard,Fort Lauderdale,FL,150.0,0.0
+613,"Adams, Eric L",1/10/2025,,"Schechter, Alan",New York,NY,10028,Finance,FBE Management Inc,1,State Street,New York,NY,400.0,0.0
+614,"Adams, Eric L",8/16/2024,,"Schoenholtz, Jessica",Staten Island,NY,10310,Real Estate,Silverstein Properties,250,Greenwich Street,New York,NY,250.0,250.0
+615,"Adams, Eric L",7/11/2024,9/16/2024,"Schonbraun, Bruce",Livingston,NJ,07039,,,,,,,-400.0,0.0
+616,"Adams, Eric L",7/9/2024,9/16/2024,"Schuster, Ariel",New York,NY,10024,,,,,,,-1000.0,0.0
+617,"Adams, Eric L",1/7/2025,,"SCHWARTZ, JONATHAN",New York,NY,10011,Hospitality,Tao,200,Park Avenue South,New York,NY,2100.0,0.0
+618,"Adams, Eric L",7/17/2024,,"Schwartz, Steven",Brooklyn,NY,11210,CEO,Tradition Homecare,3020,Avenue L,Brooklyn,NY,100.0,100.0
+619,"Adams, Eric L",1/9/2025,,"Seidman, Stuart",Brooklyn,NY,11201,Tax Accountant,Fiduciary Tax Consultants LLC,56,Court Street,Brooklyn,NY,500.0,250.0
+620,"Adams, Eric L",8/29/2024,,"Sekhniashuili, Giorgi",Brooklyn,NY,11209,Manager,Friendly Best Way Transportati,1448,Coney Island Avenue,Brooklyn,NY,250.0,0.0
+621,"Adams, Eric L",1/7/2025,,"Senderovits, Benjamin",North Miami Beach,FL,33162,Retired,,,,,,2100.0,0.0
+622,"Adams, Eric L",1/10/2025,,"Septimus, Joseph",Brooklyn,NY,11210,Financial Advisor,Alliance Bernstein,66,Hudson Yards,New York,NY,350.0,250.0
+623,"Adams, Eric L",8/25/2024,,"Serajuddin, Kaiser",Bayside,NY,11360,Business Owner,Self,3447,Bell Blvd,Bayside,NY,250.0,250.0
+624,"Adams, Eric L",12/30/2024,,"Sessler, Ryan",New York,NY,10011,Litigation Finance,Self-Employed,110,East 42nd Street,New York,NY,2100.0,250.0
+625,"Adams, Eric L",1/8/2025,,"SETTON, EPHRAIM",BROOKLYN,NY,11230,BROKER,ESETTON CORP,1626,East 5th Street,Brooklyn,NY,1000.0,0.0
+626,"Adams, Eric L",1/8/2025,,"Shair, Joseph",Plainview,NY,11803,Talent Agent,Corrie Caster LLC,9961,Grandbury Highway,Hudson Oaks,TX,500.0,0.0
+627,"Adams, Eric L",8/24/2024,,"Shakib, Mohammed",Jamaica,NY,11432,Partner,JPM Flex Corp,273,Sunrise Highway,Rockville Centre,NY,250.0,250.0
+628,"Adams, Eric L",8/29/2024,,"Shakirova, Gulshoda",Brooklyn,NY,11229,HHA,Just Care LLC,1517,Voorhies Avenue,Brooklyn,NY,250.0,250.0
+629,"Adams, Eric L",7/12/2024,,"Shalom, David Joshua",,,,,,,,,,2100.0,0.0
+630,"Adams, Eric L",7/10/2024,,"Shamah, Helene",Brooklyn,NY,11230,,Housewife,,,,,2100.0,250.0
+631,"Adams, Eric L",7/12/2024,,"Shamah, Joseph",Brooklyn,NY,11230,Business Executive,Fit for life LLC,10,W 33rd Street,New York,NY,2100.0,250.0
+632,"Adams, Eric L",1/10/2025,,"Shamie, Jack",OAKHURST,NJ,07755,Engineer,Delta children,114,w26th street,New York,NY,2100.0,0.0
+633,"Adams, Eric L",1/10/2025,,"Shamie, Michele",Brooklyn,NY,11230,Homemaker,,,,,,1000.0,250.0
+634,"Adams, Eric L",8/14/2024,,"Shams, Muhammad S",Bellerose,NY,11001,Pharmacist,Self,5723,5th Ave,Brooklyn,NY,250.0,0.0
+635,"Adams, Eric L",8/29/2024,,"SHANMUGAM, MANJUNATHAN",Flushing,NY,11355,Assistant Director,Camba,1720,Church Avenue,Brooklyn,NY,250.0,250.0
+636,"Adams, Eric L",8/15/2024,,"Sheikowitz, Craig",Brooklyn,NY,11234,Manager,Mill Lane Chemists,6309,Mill Lane,Brooklyn,NY,250.0,250.0
+637,"Adams, Eric L",1/8/2025,,"Sheinfeld, Yehuda",Teaneck,NJ,07666,Accountant,AAC,600,Madison Avenue,New York,NY,2100.0,0.0
+638,"Adams, Eric L",12/19/2024,,"Shemesh, Tamir",New York,NY,10014,Real Estate Broker,Self-Employed,594,Broadway,New York,NY,1000.0,250.0
+639,"Adams, Eric L",1/9/2025,,"Shemma, Jonathan",New York,NY,10016,Investment manager,Gold Wynn,298,main street,Buffalo,NY,2100.0,250.0
+640,"Adams, Eric L",8/30/2024,,"Sherfinski, Nathan",Flushing,NY,11375,Advisor,City of New York,71-58,Austin St,Flushing,NY,25.0,25.0
+643,"Adams, Eric L",8/14/2024,,"Shi Xu, Jian",New York,NY,10005,Vice Chairman,America-Africa-Asia Commerce,40,Wall Street,New York,NY,300.0,250.0
+644,"Adams, Eric L",7/22/2024,,"Shpigelman, Nechama",Brooklyn,NY,11213,Co-Founder / Executive Managem,Recare Home Services,760,Montgomery Street,Brooklyn,NY,50.0,50.0
+645,"Adams, Eric L",1/5/2025,,"Shukla, Hari",Jamaica,NY,11418,Physian,Self-Employed,42-72,Kissena Boulevard,Flushing,NY,500.0,250.0
+646,"Adams, Eric L",,,"Shulman & Hill, PLLC",BOWLING GREEN,NY,10004,,,,,,,1343.84,0.0
+647,"Adams, Eric L",7/17/2024,,"Shum, Kitty",Flushing,NY,11354,,Retired,,,,,250.0,250.0
+648,"Adams, Eric L",1/7/2025,,"Shusterman, Arkadiy",Brooklyn,NY,11235,Physician,Englinton Medical P.C,95-25,Jamaica Avenue,Woodhaven,NY,2100.0,250.0
+649,"Adams, Eric L",8/11/2024,,"Sielaw, Anthony",Wantagh,NY,11793,Probationary Police Officer,NYPD,130-30,28th Avenue,Queens,NY,250.0,0.0
+650,"Adams, Eric L",7/15/2024,,"Sierra, Joe",Bellmore,NY,11710,Director,Sierra-Cedar,836,Old Britton Road,Bellmore,NY,2000.0,0.0
+651,"Adams, Eric L",7/11/2024,8/16/2024,"Sinacori, Steven",Flushing,NY,11357,,,,,,,-300.0,0.0
+652,"Adams, Eric L",12/10/2024,,"Sinensky, Michael",Dorado,PR,00646,Self,Self-Employed,1202,Plantation village,Dorado,PR,1000.0,0.0
+653,"Adams, Eric L",7/18/2024,,"Singer, David",Brooklyn,NY,11219,,Retired,,,,,250.0,250.0
+654,"Adams, Eric L",1/8/2025,,"Singh, Laddi",New Hyde Park,NY,11040,Owner,Self-Employed,252-25,Union Turnpike,Bellerose,NY,1000.0,250.0
+655,"Adams, Eric L",7/11/2024,,"Sita, Ioan",Bellmore,NY,11710,,Retired,,,,NY,250.0,0.0
+656,"Adams, Eric L",5/21/2024,9/16/2024,"Skymanagement, Jon O",New York,NY,10022,,,,,,,-1000.0,0.0
+657,"Adams, Eric L",1/9/2025,,"Slomovits, Elimelech",LAKEWOOD,NJ,08701,travel,Self-Employed,33,Ford Avenue,Lakewood,NJ,2100.0,0.0
+658,"Adams, Eric L",12/13/2024,,"Soffer, Michaella",Brooklyn,NY,11225,,,,,,,250.0,250.0
+659,"Adams, Eric L",12/13/2024,,"Soffer, Yosef",Brooklyn,NY,11225,Chief Executive Officer,Unique Advertising Group LLC,1650,Eastern Parkway,Brooklyn,NY,250.0,250.0
+660,"Adams, Eric L",7/14/2024,,"Sofiev, Greg",New York,NY,10036,Real Estate,LGC,590,5th Ave,New York,NY,250.0,250.0
+661,"Adams, Eric L",6/8/2024,9/16/2024,"Soltanov, Pavel",Brooklyn,NY,11234,,,,,,,-2100.0,0.0
+662,"Adams, Eric L",1/6/2025,,"Spaier, Matthew",Hopewell Junction,NY,12533,Private Investigator,Self-Employed,222,East 44th Street,New York,NY,250.0,0.0
+663,"Adams, Eric L",1/11/2025,,"Spata, Angelo",Brooklyn,NY,11228,Entertainment,Self-Employed,1275,74th Street,Brooklyn,NY,2100.0,250.0
+664,"Adams, Eric L",12/31/2024,,"Spencer, John",Piedmont,OK,73078,Senior Unix Administrator,FedTec,1950,Opportunity Way,Reston,VA,25.0,0.0
+665,"Adams, Eric L",5/24/2024,8/16/2024,"Spiegel, Michael",New York,NY,10023,,,,,,,-1600.0,0.0
+666,"Adams, Eric L",7/17/2024,,"Spielman, Allen",Brooklyn,NY,11230,Home Health Care,New Century Home Care,1410,E10th Street,Brooklyn,NY,250.0,250.0
+667,"Adams, Eric L",6/11/2024,8/14/2024,"Spindler, Gary",New York,NY,10012,,,,,,,-100.0,0.0
+668,"Adams, Eric L",1/6/2025,,"sprouse, william",Encinitas,CA,92024,Officer,US Navy,2841,Rendova Road,San Diego,CA,250.0,0.0
+669,"Adams, Eric L",8/29/2024,,"Staraverovi, Andro",Brooklyn,NY,11210,,Self Employed,,,,,250.0,0.0
+670,"Adams, Eric L",1/6/2025,,"Steinberg, Martin",Merrick,NY,11566,Marketing,Self-Employed,16,Mitchell Court,Marlboro Township,NJ,250.0,0.0
+671,"Adams, Eric L",1/11/2025,,"Stojnovic, Momir",New York,NY,10013,Investor,Self-Employed,80,Varick Street,New York,NY,2100.0,250.0
+672,"Adams, Eric L",8/16/2024,,"Stradford, Shawn",Staten Island,NY,10310,Funeral Director,Self,1241,Castleton Ave,Staten Island,NY,250.0,250.0
+673,"Adams, Eric L",8/5/2024,,"Strandberg, Michele",Oceanside,NY,11572,Assistant Comptroller,Strandberg Associates,32,Smith Street,Freeport,NY,250.0,0.0
+675,"Adams, Eric L",7/10/2024,,"Sui, Emily",Short Hills,NJ,07078,,,,,,,500.0,0.0
+676,"Adams, Eric L",8/15/2024,,"Suk, William",New York,NY,10128,Architect,William Suk,232,Madison Avenue,New York,NY,2100.0,250.0
+677,"Adams, Eric L",8/29/2024,,"Sukhrob, Boltaev",Brooklyn,NY,11218,Dispatching,Limo Seven,653,E 5th Street,Brooklyn,NY,250.0,0.0
+678,"Adams, Eric L",1/11/2025,,"Sultanzada, Lalmir",Melville,NY,11747,Franchisee,Self-Employed,983,Willis Avenue,Albertson,NY,2100.0,0.0
+679,"Adams, Eric L",8/29/2024,,"Svanidze, Sofie",Brooklyn,NY,11229,Associate Banker,Chase Bank,8418,Bay Parkway,Brooklyn,NY,250.0,250.0
+680,"Adams, Eric L",8/15/2024,,"Sweat, Craig",New York,NY,10026,Cannabis,Craig Sweat,3333,Broadway,New York,NY,250.0,250.0
+681,"Adams, Eric L",7/12/2024,,"Swinton, Victor",Brooklyn,NY,11220,Police Officer,NYPD,1,Police Plaza,PECK SLIP,NY,250.0,250.0
+682,"Adams, Eric L",1/8/2025,,"Tamanna, Ekhtear",Brooklyn,NY,11203,District Manager,"Popeyes Louisiana Kitchen, Inc",983,Willis Avenue,Albertson,NY,500.0,250.0
+683,"Adams, Eric L",7/19/2024,,"Tan, Gorden",Flushing,NY,11355,Electrician,Self Employed,60-11,146st Street,Queens,NY,250.0,250.0
+684,"Adams, Eric L",7/10/2024,,"Tang, Xinchi",Brooklyn,NY,11224,,August Gatherings,266,Canal Street,Canal Street,NY,250.0,250.0
+685,"Adams, Eric L",10/16/2024,,"Tapia, Yulitza",Yonkers,NY,10710,Receptionist,David Dennis and Co,678,11th Avenue,New York,NY,250.0,0.0
+686,"Adams, Eric L",7/8/2024,8/16/2024,"Termini, Chris J",Staten Island,NY,10306,,,,,,,-2100.0,0.0
+687,"Adams, Eric L",8/6/2024,,"Tese, Vincent",Palm Beach,FL,33480,Not Employed,Not Employed,,,,,2100.0,0.0
+688,"Adams, Eric L",7/11/2024,12/6/2024,"Tessler, Peter",East Hampton,NY,11937,,,,,,,-1000.0,0.0
+689,"Adams, Eric L",1/5/2025,,"Thakkar, Sunny",Robbinsville,NJ,08691,Dentist,Self-Employed,43,Princeton Hightstown Road,West Windsor Township,NJ,2100.0,0.0
+690,"Adams, Eric L",12/22/2024,,"Thomas, Joji",Warren,NJ,07059,Operation Executive,Infotech Global inc,501,Watchung Avenue,Watchung,NJ,2100.0,0.0
+692,"Adams, Eric L",7/26/2024,,"Ting Kong, Chin",Brooklyn,NY,11219,,Retired,,,,,250.0,250.0
+693,"Adams, Eric L",8/29/2024,,"Togonidze, Giorgi",Brooklyn,NY,11209,,Self Employee,,,,,250.0,250.0
+694,"Adams, Eric L",1/11/2025,,"Tola, Andres",Old Westbury,NY,11568,Support Engineer,Verint,23,Old westbury,Melville,NY,2100.0,0.0
+695,"Adams, Eric L",8/21/2024,,"Tola, Charles",Franklin Square,NY,11010,Baker/Owner,Lulu’s Bakery,17906,Union Turnpike,Flushing,NY,250.0,0.0
+696,"Adams, Eric L",9/10/2024,,"Tomassetti, Elaine",Far Rockaway,NY,11694,Civil Engineer,J&E Industries LLC.,140,Beach 140 Street,Far Rockaway,NY,2100.0,0.0
+698,"Adams, Eric L",8/15/2024,,"Trapp, Frederick",Staten Island,NY,10309,Not Employed,Not Employed,51,Station Avenue,Staten Island,NY,2100.0,250.0
+699,"Adams, Eric L",1/9/2025,,"Tripathi, Mohan",New York,NY,10005,Surgery,NYSS,2001,Marcus Ave,New York,NY,500.0,250.0
+700,"Adams, Eric L",7/10/2024,,"Troncoso Barinas, Jairo B",Bronx,NY,10468,Executive Member,United Bodega of America,3840,9th Avenue,New York,NY,250.0,250.0
+701,"Adams, Eric L",7/17/2024,,"Tsepenyuk, Dmitry",Brooklyn,NY,11234,Management/Self,Just Care 247,1517,Voorhies Avenue,Brooklyn,NY,500.0,0.0
+703,"Adams, Eric L",7/16/2024,,"Turnage, Malik",Springfield Gardens,NY,11413,Self Employed,Cheese Bus Inc,2082,Maple Street,Baldwin,NY,25.0,25.0
+706,"Adams, Eric L",1/8/2025,,"Uddin, Jasim",Valley Stream,NY,11581,District Manager,"Popeyes Louisiana Kitchen, Inc",983,Willis Avenue,Albertson,NY,500.0,0.0
+707,"Adams, Eric L",1/8/2025,,"Ullah, Samie",Oakland Gardens,NY,11364,Business owner,Samie ullah,224-58,76th ave,Oakland Gardens,NY,250.0,0.0
+708,"Adams, Eric L",7/10/2024,12/6/2024,"Veizis, Antonis",Astoria,NY,11102,,,,,,,-1000.0,0.0
+709,"Adams, Eric L",8/29/2024,,"Velarde, Alberto",Westbury,NY,11590,,Self Employed,,,,,250.0,0.0
+710,"Adams, Eric L",7/12/2024,,"Venkatesha, Prasanna",Setauket- East Setauket,NY,11733,Consulting,DASR Corp,116,Wood Lane,Smithtown,NY,250.0,0.0
+711,"Adams, Eric L",7/2/2024,9/16/2024,"Verrone, Robert",Red Bank,NJ,07704,,,,,,,-2000.0,0.0
+712,"Adams, Eric L",8/2/2024,,"Vilinsky, Mitchell",GREAT NCK PLZ,NY,11021,Home care software solution,Bolt Web Solutions,107,Northern Boulevard,Great Neck,NY,250.0,0.0
+713,"Adams, Eric L",7/10/2024,9/16/2024,"Wadibia, John Paul",Fort Lee,NJ,07024,,,,,,,-500.0,0.0
+714,"Adams, Eric L",12/19/2024,,"Walker, Scott",San Juan,PR,00907,Investor,Self-Employed,1362,Magdalena Avenue,San Juan,PR,1600.0,0.0
+715,"Adams, Eric L",8/20/2024,,"Walsh, Ryan",Flushing,NY,11375,Attorney,Walsh and Gilad PLLC,125-10,Queens Blvd,Kew Gardens,NY,250.0,250.0
+716,"Adams, Eric L",7/25/2024,,"Wambua, Mathew",Orangeburg,NY,10962,Housing,Merchants capital,10,Grand Central,Manhattan,NY,2100.0,0.0
+717,"Adams, Eric L",8/20/2024,,"Wang, Yong",Flushing,NY,11354,,Not Employed,,,,,250.0,250.0
+718,"Adams, Eric L",8/1/2024,,"Weiss, Cathy",Hewlett,NY,11557,Not Employed,Not Employed,,,,,2100.0,0.0
+719,"Adams, Eric L",8/1/2024,,"Weiss, Michael",Hewlett,NY,11557,Business Person,Self Employed,124,Atlantic Avenue,Lynbrook,NY,2100.0,0.0
+720,"Adams, Eric L",8/15/2024,,"Weiss, Rifky",Brooklyn,NY,11205,Not Employed,Not Employed,50,Skillman Street,Brooklyn,NY,2100.0,250.0
+721,"Adams, Eric L",7/12/2024,,"Weiss, Samuel",Brooklyn,NY,11230,Owner AAW Capital,Self Employed,2357,60th Street,Brooklyn,NY,250.0,250.0
+722,"Adams, Eric L",8/15/2024,,"Weiss, Zelig",Brooklyn,NY,11205,Self,Riverside Developers,29,Little Nassau Street,Brooklyn,NY,2100.0,0.0
+724,"Adams, Eric L",7/25/2024,,"Weng, Vanessa S",Astoria,NY,11101,Owner,Vanessa Dumpling House,30-30,47th Avenue,Astoria,NY,250.0,250.0
+725,"Adams, Eric L",12/10/2024,,"Wesselman, Cassandra",San Diego,CA,92127,CEO,Self-Employed,Percival,10771 La Alberca Ave,San Diego,CA,5.0,0.0
+726,"Adams, Eric L",1/9/2025,,"Whitman, Carolyn",Manasquan,NJ,08736,Vice President - Sales (NY),iHeartMedia Entertainment Inc,125,West 55th Street,New York,NY,250.0,0.0
+728,"Adams, Eric L",5/28/2024,8/16/2024,"Wilchfort, Stephanie H",Brooklyn,NY,11217,,,,,,,-100.0,0.0
+729,"Adams, Eric L",7/15/2024,,"Williams, Tene",Orlando,FL,32801,Founder/CEO,Clearview Eastern Fund LLC,100,E Pine Street,Orlando,FL,2100.0,0.0
+730,"Adams, Eric L",1/9/2025,,"Wolfson, Nadine",Lawrence,NY,11559,Homemaker,,,,,,2100.0,0.0
+731,"Adams, Eric L",6/11/2024,8/16/2024,"Wolinsky, Naomi",New York,NY,10128,,,,,,,-600.0,0.0
+732,"Adams, Eric L",7/17/2024,,"Wollner, Naftuli",Brooklyn,NY,11214,Director of Operations,Signature Care CDPAP,7603,New Utrecht Avenue,Brooklyn,NY,250.0,250.0
+733,"Adams, Eric L",8/20/2024,,"Wu, Jialong",Brooklyn,NY,11214,Chef,Tuain Cuisine Holdings,1150,W. Germantown Pike,PLYMOUTH MTNG,PA,250.0,250.0
+734,"Adams, Eric L",8/20/2024,,"Wu, Jingcong",Brooklyn,NY,11220,Attorney,Law Offices of Jingcong Wu P.C,5125,9th Avenue,Brooklyn,NY,250.0,250.0
+735,"Adams, Eric L",8/5/2024,,"Wu, Johnny",Brooklyn,NY,11209,Manager,Fortune Palace Restaurant,8609,20th Avenue,Brooklyn,NY,250.0,0.0
+736,"Adams, Eric L",8/20/2024,,"Wu, Xi Ning",Brooklyn,NY,11235,Manager,YBC Auto Group,2702,Stillwell Avenue,Brooklyn,NY,250.0,250.0
+737,"Adams, Eric L",7/26/2024,,"Wu, Xie H",Brooklyn,NY,11228,Manager,"Modern Home Inc,",7613,13th Avenue,Brooklyn,NY,250.0,250.0
+738,"Adams, Eric L",7/18/2024,,"Xiaodong, Yang",Flushing,NY,11354,Not Employed,Not Employed,144-94,37th Ave,Flushing,NY,250.0,0.0
+740,"Adams, Eric L",8/20/2024,,"Xie, Yueguan",Brooklyn,NY,11204,,Unemployed,,,,,250.0,250.0
+741,"Adams, Eric L",8/20/2024,,"Xun Ye, Yue",Brooklyn,NY,11219,,Unemployed,,,,,250.0,250.0
+742,"Adams, Eric L",8/16/2024,,"Y STUART, EDWYN",Bronx,NY,10451,Police Officer,NYPD,507,E 161 Street,Bronx,NY,250.0,250.0
+743,"Adams, Eric L",7/17/2024,,"Yakhnis, Diana",Brooklyn,NY,11235,Program director,Golden Age of brooklyn,9305,Avenue L,Brooklyn,NY,250.0,250.0
+744,"Adams, Eric L",7/18/2024,,"Yan, Lisa",Brooklyn,NY,11214,Manager,VGA Bravo USA LLC,736,58th Street,Brooklyn,NY,250.0,250.0
+745,"Adams, Eric L",7/8/2024,,"Yang, Jian",Brooklyn,NY,11223,,,,,,,250.0,250.0
+746,"Adams, Eric L",7/9/2024,9/16/2024,"Yang, Long",Flushing,NY,11354,,,,,,,-250.0,0.0
+747,"Adams, Eric L",7/9/2024,9/16/2024,"Yang, Xiao",Flushing,NY,11354,,,,,,,-250.0,0.0
+748,"Adams, Eric L",7/18/2024,,"Yang, Xiaodong",Flushing,NY,11354,Front Desk,Beauty Salon (Muxi Hair & Beua,262,Jericho Turnpike,Mineola,NY,250.0,250.0
+749,"Adams, Eric L",1/8/2025,,"Yaqubie, Zaher",Upper Brookville,NY,11545,Real Estate,Self-Employed,57,Central Ave,Farmingdale,NY,500.0,0.0
+750,"Adams, Eric L",1/8/2025,,"Yasin, Fareed F",Westbury,NY,11590,Accountant,AES Corporation,292,Madison Avenue,New York,NY,250.0,0.0
+751,"Adams, Eric L",7/9/2024,,"Yip, Sheu Hong Tam",Flushing,NY,11375,Manager,Joyful Adult Daycare,736,61st Street,Brooklyn,NY,1000.0,0.0
+752,"Adams, Eric L",8/23/2024,,"Young, Sherrie",Brooklyn,NY,11205,Property Manager,Self,263,Cumberland St,Brooklyn,NY,25.0,25.0
+753,"Adams, Eric L",8/20/2024,,"Yu, Howard",Brooklyn,NY,11204,Officer,NYPD,1,Police Plaza,PECK SLIP,NY,250.0,250.0
+754,"Adams, Eric L",1/7/2025,,"Yuabov, Arkadiy",Glen Oaks,NY,11004,administrator,Crystal Ray Medical P.C.,96-14,63rd Drive,Rego Park,NY,1000.0,250.0
+755,"Adams, Eric L",1/7/2025,,"Yuabov, Boris",Hollis,NY,11423,manager,Crystal Ray Medical P.C.,96-14,63rd Drive,Rego Park,NY,1000.0,250.0
+756,"Adams, Eric L",7/9/2024,,"Yun Lin, Oscar",Staten Island,NY,10304,Manager,Page Cafe Inc.,17,Page Avenue,Staten Island,NY,250.0,250.0
+757,"Adams, Eric L",9/16/2024,,"Yusufov, Israil",Brooklyn,NY,11229,Limo Service,Self Employed,1824,Avenue S,Brooklyn,NY,250.0,0.0
+759,"Adams, Eric L",1/9/2025,,"Zamora, Mayra",East Elmhurst,NY,11369,Manager,Zamora Entertainment Inc,23300,Goddard Road,Taylor,MI,2100.0,250.0
+760,"Adams, Eric L",1/9/2025,,"Zamora, Pedro",East Elmhurst,NY,11369,Chief Executive Officer,1 Peza Inc,56-15,Northern Boulevard,Woodside,NY,2100.0,250.0
+763,"Adams, Eric L",12/10/2024,,"Zampella, Aniello",San Juan,PR,00909,Investor / CEO,Self-Employed,151,Calle San Francisco,San juan,PR,2100.0,0.0
+764,"Adams, Eric L",8/5/2024,,"Zangla, Joseph",Staten Island,NY,10312,Owner,South Shore Drywall,27,Brienna Court,Staten Island,NY,1000.0,250.0
+765,"Adams, Eric L",7/16/2024,,"Zarbailov, Nodar",Brooklyn,NY,11235,CEO,Nurturing Angels Home Care,1707,Kings Highway,Brooklyn,NY,400.0,250.0
+766,"Adams, Eric L",1/6/2025,,"Zavelina, Victoria",Jamaica,NY,11418,Homemaker,,,,,,250.0,250.0
+767,"Adams, Eric L",7/10/2024,9/16/2024,"Zeckendorf, William",New York,NY,10028,,,,,,,-2100.0,0.0
+768,"Adams, Eric L",8/20/2024,,"Zhan, Aixia",Flushing,NY,11356,,Unemployed,,,,,250.0,250.0
+769,"Adams, Eric L",8/20/2024,,"Zhang, Baoli",Staten Island,NY,10305,Day Care Center,Self,130-25,Blossom Ave,Flushing,NY,250.0,2.0
+771,"Adams, Eric L",,,"Zhang, Peng",Flushing,NY,11354,,,,,,,400.0,0.0
+772,"Adams, Eric L",7/18/2024,,"Zhang, Xiuy",Flushing,NY,11355,Not Employed,Not Employed,,,,,250.0,250.0
+773,"Adams, Eric L",8/20/2024,,"Zhang, Ying Xuan",Flushing,NY,11355,,Unemployed,,,,,250.0,250.0
+774,"Adams, Eric L",7/10/2024,,"Zhao, Larry",Brooklyn,NY,11204,Manager,King Zone Realty,1521,70th Street,Brooklyn,NY,175.0,0.0
+776,"Adams, Eric L",7/10/2024,,"Zheng, Fanny",New York,NY,10002,,Retired,,,,,250.0,0.0
+777,"Adams, Eric L",8/20/2024,,"Zheng, Sam",Staten Island,NY,10312,Officer,NYPD,1,Police Plaza,PECK SLIP,NY,250.0,250.0
+778,"Adams, Eric L",7/10/2024,,"Zhong, Jin Rong",Staten Island,NY,10305,RN,VCM,120,Broadway,New York,NY,175.0,175.0
+779,"Adams, Eric L",8/20/2024,,"Zhong, Yan Yu",Brooklyn,NY,11204,,Unemployed,,,,,250.0,250.0
+780,"Adams, Eric L",7/9/2024,,"Zhou, Frank",Garden City,NY,11530,,Retired,,,,,250.0,0.0
+781,"Adams, Eric L",7/8/2024,,"Zhu, Heng Zu",Flushing,NY,11365,,,,,,,250.0,250.0
+782,"Adams, Eric L",7/8/2024,,"Zhu, Yong  Sheng",Brooklyn,NY,11219,Sushi Chef,Sushi Lab Rooftop,132,W47th Street,New York,NY,250.0,250.0
+783,"Adams, Eric L",7/8/2024,,"Zhuo, Xiao  Wen",Staten Island,NY,10312,,,,,,,250.0,250.0
+784,"Adams, Eric L",7/17/2024,,"Zimmerman, Joseph",Brooklyn,NY,11221,Accountant,Ultimate Care,1000,Gates Avenue,Brooklyn,NY,250.0,250.0
+785,"Adams, Eric L",1/9/2025,,"Zirkiev, Shalom",Flushing,NY,11367,Real Estate,Self-Employed,141-24,Jewel Ave,Flushing,NY,2100.0,250.0
+786,"Adams, Eric L",7/25/2024,,"Zou, Raina",Bayside,NY,11360,Director of operations,Kevyn Aucoin,1209,Estates Lane,Queens,NY,250.0,250.0
+787,"Adams, Eric L",1/7/2025,,"Zupnick, Eliezer",Brooklyn,NY,11219,Broker,Zupnick Associates Insurance,1449,37th,Brooklyn,NY,500.0,0.0
